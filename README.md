@@ -49,14 +49,5 @@ pip install jupyter
 jupyter notebook week4_insurance/
 ```
 
-## Usage
 
-1. Clone the repo.
-2. `cd` into the week you're teaching.
-3. Run `generate_messy_data.py` once if you want to reseed the dataset
-   (already-generated CSVs/JSONs are committed, so this is optional).
-4. Open the numbered files in order and run them live in class.
 
-## License
-
-Add your preferred license here (e.g. MIT) if this will be shared publicly.
