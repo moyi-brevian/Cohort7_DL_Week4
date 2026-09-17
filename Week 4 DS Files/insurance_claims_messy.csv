@@ -1,0 +1,510 @@
+claim_id,policy_number,claim_type,claim_amount_kes,claim_date,region,status,assessor,notes
+CLM-00476,AMI-00079,property fire,1222500,"April 20, 2024", Nakuru,Pending,M. Hassan,site visit done
+CLM-00108,AMI-00186,health inpatient,"142,600",30.04.2024,Kisumu,rejected,P. Achieng,
+CLM-00152,AMI-00132,Motor Accident ,228000,26-05-2024,NAIROBI,pending,S. Kimani,customer unreachable
+CLM-00182,AMI-00037,Property-Burglary,243800,2024-02-02,KISUMU,Rejected,M. Hassan,police abstract attached
+CLM-00197,AMI-00131,motor accident,216800,"March 06, 2024",eldoret,rejected,J. Mwangi,site visit done
+CLM-00181,AMI-00041,Property Fire ,"593,700",2024-02-21,Nairobi,REJECTED ,M. Hassan,second opinion requested
+CLM-00372,AMI-00132,Health-Outpatient,4300,2024-06-09,MOMBASA,PENDING,S. Kimani,police abstract attached
+CLM-00246,AMI-00177,Motor Accident ,70800,17/05/2024,Eldoret ,under-review,D. Cheruiyot,police abstract attached
+CLM-00400,AMI-00217,Health Inpatient ,57200,28/07/2024, kisumu,under review,F. Wanjiru,customer unreachable
+CLM-00283,AMI-00014,Property-Burglary,449500,25-03-2024,eldoret,under review,P. Achieng,
+CLM-00333,AMI-00012,MOTOR-THEFT ,"685,600",2024-02-15,nakuru ,rejected,J. Mwangi,
+CLM-00134,AMI-00184,MOTOR-ACCIDENT,,08.01.2024,NYERI ,approved,L. Njeri,site visit done
+CLM-00006,AMI-00172,Motor-Accident,77200,2024-06-09, kisumu, Pending,M. Hassan,second opinion requested
+CLM-00369,AMI-00009,Health Inpatient ,112700,24/02/2024,NYERI,approved,D. Cheruiyot,
+CLM-00492,AMI-00124,property burglary,339200,30-07-2024,mombasa ,Rejected,J. Mwangi,police abstract attached
+CLM-00221,AMI-00034,PROPERTY-FIRE,1077800,2024-06-18,nakuru ,under-review,L. Njeri,customer unreachable
+CLM-00452,AMI-00159,MOTOR-THEFT ,820700,20.08.2024,nakuru ,Rejected,F. Wanjiru,documents pending
+CLM-00355,AMI-00163,Motor-Theft,928700,"April 10, 2024",Kisumu ,Pending,P. Achieng,
+CLM-00014,AMI-00053,PROPERTY-FIRE,880600,14/01/2024,nakuru ,pending,A. Otieno,site visit done
+CLM-00154,AMI-00114,motor accident,"249,300",21/01/2024,eldoret ,rejected,P. Achieng,
+CLM-00433,AMI-00210,Health Inpatient ,152400,19-04-2024,Nyeri,UNDER REVIEW ,D. Cheruiyot,site visit done
+CLM-00242,AMI-00024,Health-Outpatient,13500,17/01/2024,NAKURU ,rejected,S. Kimani,
+CLM-00424,AMI-00023,Property-Fire,526900,20 June 2024,Mombasa , Pending,D. Cheruiyot,documents pending
+CLM-00091,AMI-00053,Health-Inpatient,"144,000",2024-03-09,NAIROBI,REJECTED ,F. Wanjiru,second opinion requested
+CLM-00139,AMI-00139,property fire,"518,800",29-04-2024,KISUMU,Approved,L. Njeri,second opinion requested
+CLM-00428,AMI-00044,Property-Burglary,"15,800","August 12, 2024",Eldoret ,rejected,J. Mwangi,
+CLM-00443,AMI-00059,PROPERTY-FIRE,762700,28.08.2024, Nakuru,Under Review,F. Wanjiru,
+CLM-00068,AMI-00167,Motor-Accident,"128,800",23 February 2024, Nairobi , Pending,A. Otieno,documents pending
+CLM-00417,AMI-00042,health inpatient,41300,10/05/2024,Nakuru,Rejected,F. Wanjiru,
+CLM-00235,AMI-00016,property fire,939700,"April 03, 2024",Kisumu,PENDING,F. Wanjiru,
+CLM-00005,AMI-00148,health inpatient,"163,700",07 February 2024, Nairobi ,Under Review,F. Wanjiru,customer unreachable
+CLM-00109,AMI-00099,Motor Theft,"-740,500",10 April 2024,Nairobi,Approved,P. Achieng,documents pending
+CLM-00408,AMI-00065,Health-Inpatient,"178,400",03 June 2024, Nairobi ,UNDER REVIEW ,M. Hassan,documents pending
+CLM-00052,AMI-00006,PROPERTY-BURGLARY ,"66,000",18/05/2024,KISUMU,approved,M. Hassan,site visit done
+CLM-00384,AMI-00014,motor accident,"243,200","May 01, 2024",NAKURU,pending,S. Kimani,
+CLM-00484,AMI-00037,property burglary,500,17 June 2024,Kisumu, Pending,A. Otieno,site visit done
+CLM-00205,AMI-00059,health inpatient,"195,200",30 January 2024, Nairobi ,Approved ,L. Njeri,
+CLM-00007,AMI-00179,Property Burglary,234800,16-08-2024,KISUMU,Under Review,D. Cheruiyot,
+CLM-00332,AMI-00206,HEALTH-INPATIENT,"255,100",06.01.2024,mombasa ,approved,A. Otieno,
+CLM-00318,AMI-00123,Motor-Accident,"210,000",2024-03-24,Nakuru,Pending,A. Otieno,police abstract attached
+CLM-00209,AMI-00146,Motor-Theft,839300,2024-09-21,ELDORET ,UNDER REVIEW ,F. Wanjiru,police abstract attached
+CLM-00218,AMI-00215,property fire,"1,018,400","May 12, 2024",mombasa ,REJECTED ,P. Achieng,police abstract attached
+CLM-00431,AMI-00096,Health Inpatient ,214400,23 April 2024,NAKURU ,pending,F. Wanjiru,
+CLM-00488,AMI-00042,MOTOR-THEFT ,999400,2024-06-20,NAKURU ,UNDER REVIEW ,S. Kimani,site visit done
+CLM-00031,AMI-00047,MOTOR-THEFT ,702100,2024-04-15, kisumu,Under Review,F. Wanjiru,site visit done
+CLM-00334,AMI-00091,health inpatient,"77,400","July 08, 2024",Nyeri,pending,D. Cheruiyot,customer unreachable
+CLM-00135,AMI-00214,HEALTH-OUTPATIENT ,"6,200",12.08.2024,eldoret,Rejected,F. Wanjiru,
+CLM-00295,AMI-00070,HEALTH-INPATIENT,"150,700",13 June 2024,ELDORET ,under-review,A. Otieno,site visit done
+CLM-00149,AMI-00192,MOTOR-THEFT ,235300,16/07/2024, Nairobi ,Approved,M. Hassan,customer unreachable
+CLM-00422,AMI-00128,MOTOR-ACCIDENT,837000,2024-03-21,Nyeri,approved,P. Achieng,
+CLM-00462,AMI-00147,MOTOR-THEFT ,"618,600","September 02, 2024",Nairobi,Rejected,P. Achieng,
+CLM-00220,AMI-00216,HEALTH-OUTPATIENT ,3500,"August 17, 2024",eldoret,REJECTED ,A. Otieno,customer unreachable
+CLM-00352,AMI-00084,Motor Theft,-1101100,24.07.2024,Mombasa ,REJECTED ,D. Cheruiyot,customer unreachable
+CLM-00102,AMI-00089,Health Outpatient,8400,2024-04-20,NYERI ,approved,P. Achieng,
+CLM-00473,AMI-00107,Motor-Accident,,2024-08-15, Nyeri,PENDING,M. Hassan,
+CLM-00323,AMI-00195,Property-Burglary,"232,400",12/01/2024,NaIrObI,APPROVED,F. Wanjiru,police abstract attached
+CLM-00271,AMI-00193,health outpatient,11300,12/04/2024,Eldoret ,PENDING,P. Achieng,
+CLM-00214,AMI-00118,property burglary,430700,2024-02-17,mombasa ,Pending,J. Mwangi,police abstract attached
+CLM-00339,AMI-00062,Property Fire ,"1,082,300",15.05.2024,ELDORET ,Under Review,F. Wanjiru,
+CLM-00223,AMI-00129,Health Inpatient ,202700,12.03.2024,NYERI ,Approved,A. Otieno,documents pending
+CLM-00330,AMI-00138,motor accident,"83,200",2024-02-27,nyeri ,UNDER REVIEW ,P. Achieng,second opinion requested
+CLM-00381,AMI-00107,motor theft,331200,"September 20, 2024", Nyeri,rejected,M. Hassan,
+CLM-00033,AMI-00088,Motor-Theft,609100,2024-03-12,ELDORET , Pending,J. Mwangi,
+CLM-00290,AMI-00132,PROPERTY-FIRE,"865,700",11.07.2024,Nakuru,Approved,M. Hassan,second opinion requested
+CLM-00412,AMI-00162,health inpatient,147600,"July 04, 2024",eldoret,REJECTED ,F. Wanjiru,customer unreachable
+CLM-00464,AMI-00058,HEALTH-INPATIENT,109100,30.07.2024,Nairobi,Rejected,J. Mwangi,
+CLM-00420,AMI-00116,PROPERTY-FIRE,"634,200",2024-04-02,mombasa ,Approved,P. Achieng,
+CLM-00426,AMI-00075,Motor Accident ,200500,30/08/2024,Mombasa,rejected,A. Otieno,second opinion requested
+CLM-00391,AMI-00088,MOTOR-THEFT ,"206,100",03 April 2024,Kisumu ,Approved ,F. Wanjiru,
+CLM-00308,AMI-00073,Motor-Theft,679200,2024-04-10, kisumu,rejected,P. Achieng,
+CLM-00174,AMI-00206,Motor Theft,546000,2024-06-18,Kisumu,Rejected,D. Cheruiyot,documents pending
+CLM-00160,AMI-00143,Motor Accident ,,2024-04-09, kisumu,Approved,M. Hassan,documents pending
+CLM-00402,AMI-00213,Motor-Accident,188100,16 September 2024,ELDORET ,Approved,A. Otieno,
+CLM-00263,AMI-00206,Health Outpatient,"10,000",13.04.2024,Mombasa ,approved,S. Kimani,customer unreachable
+CLM-00500,AMI-00217,Property-Fire,500,08/07/2024,Nairobi, Pending,M. Hassan,
+CLM-00486,AMI-00182,HEALTH-OUTPATIENT ,10100,"May 06, 2024",Eldoret,Pending,S. Kimani,
+CLM-00388,AMI-00216,health outpatient,"4,200",2024-09-22,mombasa ,under-review,F. Wanjiru,
+CLM-00472,AMI-00113,HEALTH-OUTPATIENT ,"18,400",19/03/2024,Nakuru,Rejected,L. Njeri,
+CLM-00216,AMI-00044,Health Inpatient ,39600,2024-05-10,NaIrObI,REJECTED ,D. Cheruiyot,customer unreachable
+CLM-00237,AMI-00207,Property Burglary,230500,28.06.2024,NAIROBI,Rejected,L. Njeri,police abstract attached
+CLM-00360,AMI-00076,property burglary,,08/06/2024, Nairobi ,under-review,A. Otieno,
+CLM-00190,AMI-00008,PROPERTY-BURGLARY ,"416,600",08/01/2024,Eldoret,Approved,F. Wanjiru,documents pending
+CLM-00034,AMI-00042,Motor Accident ,278700,24/05/2024,NAKURU,REJECTED ,P. Achieng,
+CLM-00146,AMI-00010,health inpatient,"165,900",25-01-2024,Kisumu,under review,J. Mwangi,
+CLM-00456,AMI-00113,health inpatient,"79,300",05-09-2024, Nairobi , Pending,L. Njeri,documents pending
+CLM-00042,AMI-00004,Health Outpatient,7300,2024-09-07,KISUMU,pending,M. Hassan,second opinion requested
+CLM-00030,AMI-00018,Health-Inpatient,42700,17/05/2024,nakuru ,Rejected,J. Mwangi,documents pending
+CLM-00401,AMI-00203,Property Burglary,79700,16-06-2024,Kisumu, Pending,D. Cheruiyot,
+CLM-00261,AMI-00216,property fire,"945,500","January 26, 2024",Nyeri,rejected,D. Cheruiyot,customer unreachable
+CLM-00002,AMI-00024,property fire,1121800,2024-03-04,MOMBASA ,approved,L. Njeri,
+CLM-00085,AMI-00017,HEALTH-INPATIENT,94300,"August 21, 2024",MOMBASA ,pending,M. Hassan,documents pending
+CLM-00249,AMI-00152,PROPERTY-FIRE,"8,307,000",2024-07-12,KISUMU,approved,L. Njeri,site visit done
+CLM-00317,AMI-00120,Motor-Accident,26500,22/04/2024, Nyeri,Approved,L. Njeri,site visit done
+CLM-00293,AMI-00167,motor accident,127200,"July 13, 2024",Eldoret ,Pending,P. Achieng,customer unreachable
+CLM-00185,AMI-00203,MOTOR-THEFT ,"286,000",2024-07-13,mombasa ,Approved ,P. Achieng,police abstract attached
+CLM-00087,AMI-00197,PROPERTY-FIRE,,03-07-2024,Eldoret ,APPROVED,P. Achieng,police abstract attached
+CLM-00172,AMI-00128,HEALTH-OUTPATIENT ,4300,26-02-2024,ELDORET ,under-review,M. Hassan,site visit done
+CLM-00113,AMI-00168,HEALTH-INPATIENT,41700,2024-01-20,KISUMU,Rejected,F. Wanjiru,documents pending
+CLM-00282,AMI-00018,Property Fire ,1076400,29/07/2024,nairobi,PENDING,F. Wanjiru,second opinion requested
+CLM-00409,AMI-00175,Motor Accident ,191300,10/04/2024,KISUMU,Rejected,A. Otieno,customer unreachable
+CLM-00199,AMI-00172,health outpatient,"8,300",28-06-2024,Nyeri, Pending,F. Wanjiru,
+CLM-00406,AMI-00114,Health-Outpatient,,11.02.2024,nairobi,REJECTED ,M. Hassan,second opinion requested
+CLM-00467,AMI-00119,Property Fire ,"1,376,600",07.07.2024,eldoret,approved,J. Mwangi,site visit done
+CLM-00238,AMI-00065,motor accident,"120,300","August 05, 2024",NYERI, Pending,P. Achieng,second opinion requested
+CLM-00498,AMI-00181,health inpatient,"61,200",13-06-2024,NYERI,Approved ,S. Kimani,
+CLM-00039,AMI-00027,Health-Outpatient,3300,10 January 2024,Nyeri,Rejected,M. Hassan,site visit done
+CLM-00387,AMI-00078,HEALTH-INPATIENT,"146,900",13/02/2024,Mombasa ,Rejected,D. Cheruiyot,
+CLM-00349,AMI-00136,Health Outpatient,6500,19.09.2024,NAKURU ,APPROVED,M. Hassan,documents pending
+CLM-00076,AMI-00187,health outpatient,"16,600",2024-02-16,Eldoret,pending,M. Hassan,
+CLM-00284,AMI-00051,Property Fire ,939100,2024-01-26,eldoret,UNDER REVIEW ,D. Cheruiyot,police abstract attached
+CLM-00130,AMI-00082,Motor Accident ,215800,28 January 2024,Eldoret,Approved,A. Otieno,police abstract attached
+CLM-00015,AMI-00137,Property Fire ,763600,09-04-2024,Mombasa,Under Review,S. Kimani,documents pending
+CLM-00466,AMI-00174,health outpatient,7900,31.08.2024,Kisumu,rejected,L. Njeri,police abstract attached
+CLM-00207,AMI-00011,Health-Outpatient,"8,800","September 18, 2024",Eldoret ,REJECTED ,P. Achieng,
+CLM-00457,AMI-00041,PROPERTY-FIRE,672300,17-04-2024,mombasa ,Rejected,D. Cheruiyot,
+CLM-00023,AMI-00198,Motor Accident ,204000,"February 02, 2024",eldoret , Pending,S. Kimani,site visit done
+CLM-00019,AMI-00152,Health-Outpatient,12500,"June 28, 2024",MOMBASA,Rejected,J. Mwangi,
+CLM-00493,AMI-00107,Health-Outpatient,"8,400",2024-08-08,Mombasa,Rejected,D. Cheruiyot,
+CLM-00025,AMI-00172,MOTOR-THEFT ,"315,600",04/06/2024, Nairobi ,rejected,D. Cheruiyot,
+CLM-00444,AMI-00080,Health Outpatient,7500,04-04-2024, kisumu,APPROVED,L. Njeri,police abstract attached
+CLM-00481,AMI-00096,Property Burglary,147100,26/05/2024,eldoret ,UNDER REVIEW ,L. Njeri,documents pending
+CLM-00243,AMI-00148,Health Outpatient,4900,25/01/2024,KISUMU,Approved ,A. Otieno,
+CLM-00407,AMI-00216,property fire,"1,380,100",05/04/2024, Nakuru,pending,D. Cheruiyot,
+CLM-00446,AMI-00073,motor accident,"143,900",16 June 2024,Mombasa,PENDING,A. Otieno,customer unreachable
+CLM-00458,AMI-00124,HEALTH-INPATIENT,112400,21/04/2024,KISUMU,under review,J. Mwangi,site visit done
+CLM-00331,AMI-00102,Health Outpatient,13600,23/08/2024,Kisumu,pending,S. Kimani,
+CLM-00272,AMI-00197,Motor-Theft,"568,800",01/01/2024, kisumu,REJECTED ,F. Wanjiru,site visit done
+CLM-00335,AMI-00204,Motor Theft,"400,800",09-04-2024,Mombasa,Under Review,D. Cheruiyot,documents pending
+CLM-00425,AMI-00018,Motor-Theft,"772,300",21.02.2024,Eldoret ,under-review,P. Achieng,documents pending
+CLM-00208,AMI-00017,Health-Outpatient,,31 March 2024,NYERI ,REJECTED ,L. Njeri,site visit done
+CLM-00217,AMI-00026,health inpatient,180600,27.02.2024, Nairobi ,Rejected,P. Achieng,customer unreachable
+CLM-00073,AMI-00056,MOTOR-ACCIDENT,"159,900",14 April 2024, kisumu,approved,S. Kimani,
+CLM-00489,AMI-00130,Motor Accident ,,10 May 2024, Nyeri, Pending,P. Achieng,police abstract attached
+CLM-00389,AMI-00018,Health-Outpatient,5500,2024-06-20,Kisumu ,UNDER REVIEW ,F. Wanjiru,second opinion requested
+CLM-00285,AMI-00170,Property-Fire,"1,364,300",05 June 2024, Nairobi , Pending,M. Hassan,
+CLM-00454,AMI-00142,Motor Accident ,169700,26.04.2024,KISUMU,Approved ,M. Hassan,
+CLM-00461,AMI-00113,property burglary,264300,12-04-2024,eldoret ,approved,A. Otieno,police abstract attached
+CLM-00479,AMI-00141,PROPERTY-BURGLARY ,374400,08.01.2024,NaIrObI,pending,F. Wanjiru,customer unreachable
+CLM-00354,AMI-00086,PROPERTY-FIRE,"520,700",2024-09-03,nyeri ,approved,F. Wanjiru,police abstract attached
+CLM-00274,AMI-00202,Motor-Theft,599100,19-02-2024,eldoret,REJECTED ,L. Njeri,customer unreachable
+CLM-00287,AMI-00105,Property Burglary,"339,400",20-04-2024,nyeri ,approved,L. Njeri,
+CLM-00121,AMI-00054,health outpatient,12200,"February 16, 2024",Nyeri, Pending,S. Kimani,second opinion requested
+CLM-00010,AMI-00125,Property-Fire,"1,307,800",15 March 2024,eldoret , Pending,D. Cheruiyot,
+CLM-00126,AMI-00212,Health Inpatient ,114100,2024-07-25, kisumu,pending,D. Cheruiyot,documents pending
+CLM-00155,AMI-00183,motor theft,"593,000",14/02/2024,NAKURU ,under review,P. Achieng,
+CLM-00309,AMI-00107,MOTOR-ACCIDENT,170100,15-05-2024,Nakuru,Pending,F. Wanjiru,customer unreachable
+CLM-00112,AMI-00108,Motor-Theft,341100,"March 21, 2024",Kisumu ,under review,M. Hassan,second opinion requested
+CLM-00165,AMI-00163,Motor-Accident,183100,21-01-2024,Nairobi,Pending,P. Achieng,
+CLM-00170,AMI-00169,MOTOR-ACCIDENT,222500,23/09/2024,MOMBASA,REJECTED ,L. Njeri,customer unreachable
+CLM-00344,AMI-00096,property fire,1145400,18-04-2024, Nakuru,REJECTED ,S. Kimani,second opinion requested
+CLM-00100,AMI-00053,motor accident,,2024-02-14,NYERI,PENDING,M. Hassan,
+CLM-00140,AMI-00203,health outpatient,14200,29/04/2024,eldoret,pending,D. Cheruiyot,second opinion requested
+CLM-00151,AMI-00070,Property Fire ,"1,034,500",26 March 2024,Kisumu,under review,A. Otieno,customer unreachable
+CLM-00008,AMI-00127,motor accident,"103,100",06 May 2024,Eldoret ,UNDER REVIEW ,M. Hassan,
+CLM-00320,AMI-00007,MOTOR-THEFT ,"733,500",16.04.2024,Nyeri,Under Review,A. Otieno,
+CLM-00337,AMI-00024,HEALTH-OUTPATIENT ,"5,500",13-08-2024, Nairobi ,Approved ,S. Kimani,
+CLM-00022,AMI-00199,motor theft,333000,15/06/2024,nyeri ,Under Review,A. Otieno,
+CLM-00365,AMI-00084,Property-Fire,500,"May 05, 2024",eldoret ,APPROVED,S. Kimani,customer unreachable
+CLM-00092,AMI-00103,Health-Inpatient,199400,2024-08-15,Nakuru,Under Review,S. Kimani,
+CLM-00390,AMI-00131,Property Burglary,89200,21-03-2024,NAKURU ,approved,F. Wanjiru,customer unreachable
+CLM-00276,AMI-00128,HEALTH-INPATIENT,"144,800",22 January 2024,NAKURU ,pending,D. Cheruiyot,documents pending
+CLM-00194,AMI-00040,Health Outpatient,6200,01.04.2024,NAKURU ,REJECTED ,M. Hassan,site visit done
+CLM-00090,AMI-00006,Motor Accident ,,"June 30, 2024", kisumu,approved,D. Cheruiyot,documents pending
+CLM-00163,AMI-00087,HEALTH-OUTPATIENT ,"13,900","August 11, 2024",NAKURU,PENDING,L. Njeri,
+CLM-00241,AMI-00176,Motor-Accident,"214,400",05/01/2024,Mombasa , Pending,F. Wanjiru,customer unreachable
+CLM-00269,AMI-00205,property burglary,"-355,100",17.01.2024,KISUMU,Under Review,F. Wanjiru,site visit done
+CLM-00057,AMI-00135,motor theft,"604,700",29 July 2024, Nyeri,Pending,J. Mwangi,
+CLM-00147,AMI-00174,Property Burglary,319300,2024-02-23,ELDORET , Pending,D. Cheruiyot,site visit done
+CLM-00279,AMI-00060,Motor-Theft,534500,01/02/2024,MOMBASA ,approved,D. Cheruiyot,
+CLM-00307,AMI-00019,property burglary,"74,400",2024-08-20, Nyeri,under review,S. Kimani,customer unreachable
+CLM-00292,AMI-00070,Motor-Theft,857300,29 March 2024,NYERI , Pending,S. Kimani,site visit done
+CLM-00280,AMI-00209,Health-Inpatient,119800,06/01/2024,KISUMU,under review,L. Njeri,
+CLM-00270,AMI-00051,HEALTH-OUTPATIENT ,"9,500",20 January 2024, kisumu,Approved,S. Kimani,
+CLM-00313,AMI-00008,MOTOR-ACCIDENT,168200,14-02-2024,eldoret ,Approved ,S. Kimani,
+CLM-00252,AMI-00040,Property Burglary,362500,23-09-2024,Kisumu ,Under Review,A. Otieno,site visit done
+CLM-00003,AMI-00075,Health-Outpatient,10500,"April 02, 2024",Nairobi,rejected,D. Cheruiyot,
+CLM-00397,AMI-00173,Motor Theft,679500,10/08/2024,Kisumu ,Under Review,L. Njeri,site visit done
+CLM-00265,AMI-00075,Motor-Theft,526300,20/08/2024,Eldoret ,Under Review,S. Kimani,documents pending
+CLM-00296,AMI-00204,health outpatient,"10,500",28-07-2024,NYERI ,Rejected,D. Cheruiyot,
+CLM-00234,AMI-00134,Property-Fire,"936,400","July 04, 2024",MOMBASA,Rejected,L. Njeri,
+CLM-00099,AMI-00178,Property Burglary,213300,2024-01-24,NAIROBI,pending,S. Kimani,
+CLM-00086,AMI-00082,Health Inpatient ,,03/04/2024,ELDORET ,Rejected,P. Achieng,customer unreachable
+CLM-00143,AMI-00067,health inpatient,162300,08 March 2024,Kisumu,Approved,D. Cheruiyot,documents pending
+CLM-00026,AMI-00192,Motor Accident ,500,23/03/2024,nyeri ,UNDER REVIEW ,L. Njeri,customer unreachable
+CLM-00164,AMI-00064,health outpatient,"9,900",15 June 2024,Eldoret ,Rejected,J. Mwangi,documents pending
+CLM-00358,AMI-00082,health inpatient,"135,300",12-05-2024,Kisumu,Approved,A. Otieno,site visit done
+CLM-00248,AMI-00216,Property-Fire,1007000,15 June 2024, Nyeri,UNDER REVIEW ,D. Cheruiyot,second opinion requested
+CLM-00071,AMI-00167,MOTOR-ACCIDENT,201400,2024-02-22,nairobi,under review,S. Kimani,second opinion requested
+CLM-00173,AMI-00135,PROPERTY-FIRE,718200,04/01/2024,NYERI ,UNDER REVIEW ,L. Njeri,second opinion requested
+CLM-00251,AMI-00209,HEALTH-INPATIENT,500,23 August 2024,Mombasa,Approved ,D. Cheruiyot,police abstract attached
+CLM-00232,AMI-00015,HEALTH-OUTPATIENT ,"7,400",20 March 2024,mombasa ,rejected,A. Otieno,customer unreachable
+CLM-00049,AMI-00165,HEALTH-INPATIENT,101400,06-03-2024,mombasa ,UNDER REVIEW ,L. Njeri,customer unreachable
+CLM-00244,AMI-00001,MOTOR-THEFT ,375800,27/02/2024,NAKURU,Pending,M. Hassan,
+CLM-00144,AMI-00014,MOTOR-ACCIDENT,248500,02-02-2024,NAKURU ,under review,A. Otieno,
+CLM-00300,AMI-00048,PROPERTY-BURGLARY ,452100,23.09.2024,Eldoret, Pending,F. Wanjiru,documents pending
+CLM-00226,AMI-00002,PROPERTY-BURGLARY ,"66,700",27-03-2024,NAKURU ,APPROVED,F. Wanjiru,site visit done
+CLM-00183,AMI-00150,MOTOR-ACCIDENT,203000,2024-05-07,Mombasa ,APPROVED,F. Wanjiru,
+CLM-00259,AMI-00172,Motor Theft,"740,100",2024-01-21,Nyeri,pending,D. Cheruiyot,police abstract attached
+CLM-00376,AMI-00204,Property-Fire,"-1,325,300",2024-04-19,Nyeri,PENDING,D. Cheruiyot,documents pending
+CLM-00361,AMI-00203,motor theft,1003100,"August 29, 2024",NAKURU,Under Review,F. Wanjiru,
+CLM-00442,AMI-00097,Property-Burglary,,2024-06-04,Kisumu ,under-review,M. Hassan,second opinion requested
+CLM-00184,AMI-00108,Property Fire ,"1,745,300",18.07.2024, Nyeri,Rejected,L. Njeri,site visit done
+CLM-00117,AMI-00121,PROPERTY-BURGLARY ,"308,100",30/07/2024,ELDORET , Pending,F. Wanjiru,second opinion requested
+CLM-00338,AMI-00062,Health-Inpatient,"99,800",23 April 2024,eldoret ,Rejected,L. Njeri,
+CLM-00346,AMI-00156,health inpatient,"20,300",13/05/2024,MOMBASA ,approved,P. Achieng,police abstract attached
+CLM-00404,AMI-00017,PROPERTY-BURGLARY ,270400,13 September 2024, Nakuru,Under Review,P. Achieng,second opinion requested
+CLM-00120,AMI-00169,motor accident,"108,100",30 May 2024, kisumu,approved,F. Wanjiru,documents pending
+CLM-00299,AMI-00214,Property Burglary,174400,01 March 2024,ELDORET ,UNDER REVIEW ,D. Cheruiyot,police abstract attached
+CLM-00168,AMI-00118,Property-Fire,"167,800",19-06-2024,MOMBASA,rejected,L. Njeri,police abstract attached
+CLM-00392,AMI-00071,HEALTH-INPATIENT,170100,15 June 2024,NYERI ,UNDER REVIEW ,A. Otieno,customer unreachable
+CLM-00115,AMI-00132,Motor Accident ,"83,300",14 July 2024,ELDORET ,APPROVED,J. Mwangi,
+CLM-00096,AMI-00076,PROPERTY-BURGLARY ,299900,27/03/2024,Kisumu ,REJECTED ,S. Kimani,
+CLM-00316,AMI-00128,Property-Fire,677100,03/01/2024,Eldoret,Rejected,J. Mwangi,documents pending
+CLM-00187,AMI-00072,PROPERTY-BURGLARY ,,"March 20, 2024",MOMBASA,Rejected,A. Otieno,documents pending
+CLM-00459,AMI-00180,motor theft,878700,27 August 2024,eldoret,under review,S. Kimani,
+CLM-00294,AMI-00204,PROPERTY-FIRE,1207400,24 March 2024, kisumu,rejected,P. Achieng,
+CLM-00189,AMI-00181,Health-Inpatient,500,"July 25, 2024",nakuru ,Rejected,F. Wanjiru,
+CLM-00312,AMI-00182,Health-Inpatient,158800,2024-07-15,MOMBASA,under-review,F. Wanjiru,
+CLM-00483,AMI-00080,Property Fire ,1132600,31-03-2024,Mombasa,approved,F. Wanjiru,documents pending
+CLM-00438,AMI-00198,Health Inpatient ,131500,2024-05-10,nairobi,Under Review,L. Njeri,
+CLM-00281,AMI-00039,Health Inpatient ,"33,000",2024-04-22, Nyeri,PENDING,A. Otieno,
+CLM-00012,AMI-00138,MOTOR-ACCIDENT,190500,"February 06, 2024",mombasa ,under-review,F. Wanjiru,site visit done
+CLM-00032,AMI-00004,MOTOR-ACCIDENT,"124,600",16.08.2024,NAIROBI,under review,M. Hassan,police abstract attached
+CLM-00058,AMI-00066,motor theft,"777,900",2024-06-22,nyeri ,Under Review,D. Cheruiyot,police abstract attached
+CLM-00305,AMI-00076,property burglary,316900,27/04/2024,Mombasa,REJECTED ,P. Achieng,
+CLM-00480,AMI-00103,Health Outpatient,6000,04 April 2024,Eldoret ,under review,J. Mwangi,documents pending
+CLM-00084,AMI-00168,Motor Theft,,03-02-2024,NAKURU,approved,S. Kimani,
+CLM-00449,AMI-00139,motor theft,708700,13.09.2024,Mombasa ,Rejected,D. Cheruiyot,site visit done
+CLM-00037,AMI-00006,health inpatient,"94,300",20-03-2024,NYERI ,under review,D. Cheruiyot,second opinion requested
+CLM-00018,AMI-00046,health outpatient,"2,000",21/07/2024,Eldoret,under review,A. Otieno,
+CLM-00410,AMI-00121,HEALTH-OUTPATIENT ,12400,2024-02-20,nakuru ,under-review,D. Cheruiyot,
+CLM-00439,AMI-00195,Health-Inpatient,125800,06/04/2024,MOMBASA,approved,S. Kimani,site visit done
+CLM-00306,AMI-00109,HEALTH-INPATIENT,29100,"July 23, 2024",ELDORET ,UNDER REVIEW ,S. Kimani,
+CLM-00395,AMI-00198,motor theft,"540,300","September 11, 2024",NYERI,UNDER REVIEW ,L. Njeri,
+CLM-00136,AMI-00123,Health-Outpatient,5000,19/06/2024,KISUMU,PENDING,J. Mwangi,customer unreachable
+CLM-00496,AMI-00171,Property-Fire,868400,30-08-2024,MOMBASA ,Pending,M. Hassan,police abstract attached
+CLM-00040,AMI-00169,Property Fire ,"874,700",15 May 2024,Mombasa,Rejected,S. Kimani,second opinion requested
+CLM-00341,AMI-00165,HEALTH-OUTPATIENT ,13700,12.03.2024,Nyeri,PENDING,F. Wanjiru,police abstract attached
+CLM-00024,AMI-00130,Motor Theft,"990,900",13 April 2024,ELDORET ,Rejected,L. Njeri,
+CLM-00177,AMI-00178,property fire,"871,200",2024-07-04, kisumu,PENDING,A. Otieno,site visit done
+CLM-00054,AMI-00001,motor accident,330700,"August 17, 2024",Mombasa,Approved ,S. Kimani,
+CLM-00171,AMI-00211,Property-Fire,577300,31 August 2024,KISUMU,Rejected,L. Njeri,
+CLM-00045,AMI-00041,Motor Accident ,166000,26-07-2024,Kisumu,REJECTED ,L. Njeri,customer unreachable
+CLM-00017,AMI-00051,Health Inpatient ,3400,02.09.2024,NYERI, Pending,A. Otieno,
+CLM-00289,AMI-00001,motor theft,"474,800",08-05-2024, Nyeri,Pending,A. Otieno,police abstract attached
+CLM-00303,AMI-00198,Property-Fire,1106100,19-04-2024,Mombasa,Pending,A. Otieno,customer unreachable
+CLM-00267,AMI-00120,Motor Accident ,"232,900",26/01/2024,Eldoret,rejected,P. Achieng,second opinion requested
+CLM-00137,AMI-00150,HEALTH-OUTPATIENT ,"-8,900",17.07.2024,Nyeri,UNDER REVIEW ,S. Kimani,second opinion requested
+CLM-00105,AMI-00109,Property Burglary,,15.04.2024,KISUMU, Pending,L. Njeri,
+CLM-00138,AMI-00068,Health Inpatient ,600,22-01-2024,KISUMU,Rejected,F. Wanjiru,site visit done
+CLM-00436,AMI-00027,health inpatient,"109,200",22-06-2024,eldoret,under review,P. Achieng,police abstract attached
+CLM-00297,AMI-00170,PROPERTY-FIRE,"1,739,000",09.02.2024,Kisumu,UNDER REVIEW ,D. Cheruiyot,police abstract attached
+CLM-00077,AMI-00165,HEALTH-OUTPATIENT ,8300,08/07/2024,NYERI ,rejected,F. Wanjiru,customer unreachable
+CLM-00288,AMI-00093,motor theft,861400,20 July 2024,KISUMU,Under Review,D. Cheruiyot,documents pending
+CLM-00128,AMI-00049,health outpatient,5100,2024-09-13, Nakuru,under review,F. Wanjiru,
+CLM-00122,AMI-00172,Motor Accident ,"344,900",29 April 2024,MOMBASA,under-review,M. Hassan,
+CLM-00487,AMI-00196,Property Fire ,,05-09-2024,nakuru ,Rejected,L. Njeri,
+CLM-00041,AMI-00176,HEALTH-INPATIENT,49400,"April 11, 2024",NaIrObI,rejected,D. Cheruiyot,site visit done
+CLM-00153,AMI-00025,Health Outpatient,500,"January 30, 2024",nyeri ,pending,F. Wanjiru,
+CLM-00383,AMI-00144,motor theft,542900,16 January 2024,eldoret,Rejected,P. Achieng,site visit done
+CLM-00029,AMI-00180,Health-Inpatient,"123,800",03-04-2024,Eldoret,approved,P. Achieng,
+CLM-00416,AMI-00213,Property Burglary,201000,"August 07, 2024",KISUMU,Approved ,J. Mwangi,
+CLM-00478,AMI-00082,PROPERTY-FIRE,"812,000","September 19, 2024",KISUMU,rejected,L. Njeri,second opinion requested
+CLM-00106,AMI-00033,PROPERTY-FIRE,1139200,18/01/2024,Kisumu , Pending,F. Wanjiru,second opinion requested
+CLM-00343,AMI-00215,Motor Theft,"597,800",13/01/2024,Nyeri,Rejected,J. Mwangi,customer unreachable
+CLM-00256,AMI-00094,motor accident,154200,11.05.2024,KISUMU,REJECTED ,L. Njeri,
+CLM-00020,AMI-00050,Motor Theft,,18/04/2024,Kisumu,REJECTED ,D. Cheruiyot,site visit done
+CLM-00281,AMI-00039,Health Inpatient ,"33,000",2024-04-22, Nyeri,PENDING,A. Otieno,
+CLM-00253,AMI-00116,Property Burglary,334800,"September 21, 2024",MOMBASA,APPROVED,F. Wanjiru,customer unreachable
+CLM-00162,AMI-00139,Property-Fire,"985,500",22 July 2024,Mombasa,APPROVED,L. Njeri,police abstract attached
+CLM-00377,AMI-00007,Motor Accident ,"146,300",04-02-2024,Eldoret ,Approved ,S. Kimani,second opinion requested
+CLM-00447,AMI-00057,HEALTH-OUTPATIENT ,,11/04/2024,NYERI,under-review,D. Cheruiyot,police abstract attached
+CLM-00169,AMI-00083,Property-Fire,"1,002,500","April 20, 2024", kisumu,Approved ,J. Mwangi,
+CLM-00304,AMI-00032,Health Inpatient ,500,2024-09-14, Nairobi ,under review,J. Mwangi,
+CLM-00495,AMI-00159,Motor Accident ,"138,500",22-02-2024,Eldoret,under-review,J. Mwangi,
+CLM-00123,AMI-00064,HEALTH-OUTPATIENT ,"2,700",13 June 2024,Eldoret ,Under Review,P. Achieng,second opinion requested
+CLM-00088,AMI-00148,MOTOR-THEFT ,826900,14-08-2024,MOMBASA ,REJECTED ,J. Mwangi,site visit done
+CLM-00374,AMI-00101,HEALTH-OUTPATIENT ,8600,05-05-2024,NYERI ,APPROVED,F. Wanjiru,
+CLM-00180,AMI-00078,Health Outpatient,"2,900","September 11, 2024",Nakuru,pending,F. Wanjiru,documents pending
+CLM-00311,AMI-00204,HEALTH-INPATIENT,102000,06-03-2024,Nairobi,pending,L. Njeri,documents pending
+CLM-00322,AMI-00156,Property Fire ,"-905,600","February 28, 2024",NYERI ,rejected,L. Njeri,second opinion requested
+CLM-00059,AMI-00053,HEALTH-OUTPATIENT ,"6,700",2024-04-09,MOMBASA ,under-review,S. Kimani,site visit done
+CLM-00266,AMI-00013,motor theft,"892,300",25/03/2024,eldoret,Rejected,P. Achieng,documents pending
+CLM-00328,AMI-00184,motor accident,"1,293,000",12-08-2024,nakuru ,Rejected,P. Achieng,police abstract attached
+CLM-00036,AMI-00098,Motor Accident ,119700,"January 03, 2024",Nairobi, Pending,A. Otieno,
+CLM-00116,AMI-00028,motor theft,"462,900",26/09/2024,Mombasa,under review,M. Hassan,documents pending
+CLM-00056,AMI-00026,MOTOR-ACCIDENT,"235,100",01.01.2024,NAIROBI, Pending,M. Hassan,site visit done
+CLM-00200,AMI-00195,Motor-Theft,"890,400",24-08-2024,Eldoret ,rejected,A. Otieno,site visit done
+CLM-00188,AMI-00120,motor theft,"599,500",26/07/2024,Eldoret ,rejected,P. Achieng,second opinion requested
+CLM-00403,AMI-00156,Health-Outpatient,2800,11 May 2024,nairobi,under review,D. Cheruiyot,
+CLM-00382,AMI-00047,motor accident,35900,"July 04, 2024", Nairobi ,approved,S. Kimani,
+CLM-00440,AMI-00121,property fire,1050100,21/09/2024, Nyeri,APPROVED,M. Hassan,
+CLM-00213,AMI-00189,Property-Fire,1649900,27.07.2024,NYERI ,Approved,M. Hassan,
+CLM-00432,AMI-00012,PROPERTY-FIRE,"1,312,900",10-07-2024, Nakuru,Under Review,S. Kimani,police abstract attached
+CLM-00336,AMI-00026,Property-Burglary,"423,800",2024-05-24, Nairobi ,under-review,M. Hassan,second opinion requested
+CLM-00159,AMI-00132,motor accident,173200,2024-01-11,mombasa ,APPROVED,S. Kimani,
+CLM-00114,AMI-00139,motor theft,799400,08.07.2024,NAKURU, Pending,L. Njeri,second opinion requested
+CLM-00379,AMI-00171,Motor Theft,"511,500",2024-07-04,NYERI,Approved ,J. Mwangi,second opinion requested
+CLM-00419,AMI-00194,Motor Accident ,"210,000",2024-09-01,NAKURU,Under Review,L. Njeri,customer unreachable
+CLM-00101,AMI-00082,Health Inpatient ,"140,800",2024-07-07,Kisumu ,Under Review,P. Achieng,
+CLM-00364,AMI-00119,HEALTH-INPATIENT,63100,2024-06-07,ELDORET ,Pending,P. Achieng,
+CLM-00394,AMI-00020,Motor-Theft,"640,800",22/04/2024,NaIrObI,Under Review,P. Achieng,
+CLM-00453,AMI-00034,Health-Inpatient,105800,26/01/2024,Mombasa ,PENDING,P. Achieng,site visit done
+CLM-00353,AMI-00033,Motor-Theft,932100,27 February 2024,NaIrObI,Rejected,L. Njeri,police abstract attached
+CLM-00370,AMI-00100,health outpatient,"2,500",29/02/2024,NaIrObI,PENDING,L. Njeri,second opinion requested
+CLM-00192,AMI-00199,PROPERTY-BURGLARY ,152000,08 March 2024,Kisumu,Rejected,J. Mwangi,customer unreachable
+CLM-00255,AMI-00214,HEALTH-OUTPATIENT ,13100,2024-02-15,Mombasa ,Rejected,L. Njeri,site visit done
+CLM-00275,AMI-00044,Property-Burglary,"259,400",02/09/2024,Kisumu,rejected,P. Achieng,
+CLM-00141,AMI-00024,Motor Theft,"839,800",02-07-2024,Eldoret,REJECTED ,S. Kimani,
+CLM-00013,AMI-00032,Motor Accident ,"280,700",13.02.2024,MOMBASA,Approved,D. Cheruiyot,site visit done
+CLM-00212,AMI-00052,Property Fire ,1036900,06/04/2024,NAKURU ,Pending,M. Hassan,documents pending
+CLM-00009,AMI-00036,health outpatient,"7,300",13/07/2024,MOMBASA,Rejected,A. Otieno,
+CLM-00257,AMI-00017,Property Burglary,397400,10.02.2024,Eldoret,Under Review,L. Njeri,police abstract attached
+CLM-00131,AMI-00175,health outpatient,"13,900",30/07/2024,Nakuru,Approved ,A. Otieno,second opinion requested
+CLM-00089,AMI-00188,Motor Accident ,193200,01/08/2024,NAKURU ,Pending,J. Mwangi,
+CLM-00072,AMI-00031,Motor-Accident,297400,2024-07-09,NAKURU ,REJECTED ,M. Hassan,site visit done
+CLM-00314,AMI-00125,Property Burglary,"351,300","February 23, 2024",NaIrObI,Rejected,S. Kimani,second opinion requested
+CLM-00245,AMI-00070,PROPERTY-BURGLARY ,"196,600",05-02-2024,Nairobi,REJECTED ,J. Mwangi,police abstract attached
+CLM-00302,AMI-00057,Property Burglary,"255,500","January 18, 2024",nyeri ,Under Review,P. Achieng,
+CLM-00324,AMI-00114,health inpatient,"94,200",15.06.2024,Eldoret ,APPROVED,F. Wanjiru,second opinion requested
+CLM-00240,AMI-00175,property fire,396400,17 April 2024,NYERI,PENDING,J. Mwangi,second opinion requested
+CLM-00229,AMI-00129,PROPERTY-BURGLARY ,"282,400",30.01.2024,MOMBASA,Approved,A. Otieno,
+CLM-00368,AMI-00010,property fire,"356,800",05 February 2024,Nyeri,Pending,L. Njeri,
+CLM-00148,AMI-00098,motor theft,806900,2024-08-27,NYERI ,REJECTED ,J. Mwangi,
+CLM-00378,AMI-00080,Property Burglary,383500,08 June 2024, Nyeri,Pending,A. Otieno,
+CLM-00264,AMI-00094,Health-Inpatient,"161,900",09-06-2024,NAIROBI,Approved ,L. Njeri,customer unreachable
+CLM-00211,AMI-00170,PROPERTY-FIRE,1329700,2024-08-01,KISUMU,rejected,M. Hassan,police abstract attached
+CLM-00485,AMI-00057,Health-Outpatient,2700,"February 18, 2024",Mombasa,under-review,P. Achieng,documents pending
+CLM-00037,AMI-00006,health inpatient,"94,300",20-03-2024,NYERI ,under review,D. Cheruiyot,second opinion requested
+CLM-00201,AMI-00012,MOTOR-ACCIDENT,"165,500",27-02-2024,MOMBASA,Pending,M. Hassan,second opinion requested
+CLM-00044,AMI-00037,Property Burglary,326500,17 September 2024,Kisumu ,Approved,D. Cheruiyot,documents pending
+CLM-00326,AMI-00137,Motor-Theft,819100,09 June 2024,eldoret,pending,D. Cheruiyot,
+CLM-00286,AMI-00155,Health-Inpatient,"73,700",26-08-2024,NAKURU,Approved ,P. Achieng,customer unreachable
+CLM-00064,AMI-00050,Health-Inpatient,"106,900",2024-07-26,nairobi,under review,J. Mwangi,second opinion requested
+CLM-00434,AMI-00188,Property-Burglary,276700,10-05-2024,nyeri , Pending,J. Mwangi,site visit done
+CLM-00193,AMI-00064,health outpatient,"6,300",22 April 2024,NYERI,APPROVED,L. Njeri,
+CLM-00176,AMI-00116,Motor Accident ,"139,400",24 July 2024, Nyeri,REJECTED ,S. Kimani,police abstract attached
+CLM-00196,AMI-00178,Property Burglary,128500,23-04-2024,KISUMU,Approved ,D. Cheruiyot,police abstract attached
+CLM-00363,AMI-00055,property burglary,"73,100",08/04/2024,Mombasa,rejected,P. Achieng,site visit done
+CLM-00405,AMI-00012,property burglary,150300,31-05-2024,NaIrObI,Rejected,D. Cheruiyot,police abstract attached
+CLM-00098,AMI-00101,Property-Fire,"674,900",2024-02-27,Nairobi,rejected,D. Cheruiyot,
+CLM-00222,AMI-00086,MOTOR-THEFT ,,23 August 2024,nakuru ,Approved,F. Wanjiru,
+CLM-00262,AMI-00138,HEALTH-INPATIENT,145500,01-06-2024,NAKURU,under-review,L. Njeri,
+CLM-00081,AMI-00167,health outpatient,"9,800",2024-07-18,Nyeri, Pending,M. Hassan,second opinion requested
+CLM-00329,AMI-00024,PROPERTY-BURGLARY ,118500,2024-03-13,Nyeri,Approved,A. Otieno,police abstract attached
+CLM-00258,AMI-00152,Property Fire ,"156,300",30/08/2024,MOMBASA ,Approved,M. Hassan,police abstract attached
+CLM-00119,AMI-00110,PROPERTY-FIRE,695200,16.07.2024,NaIrObI,Approved,D. Cheruiyot,
+CLM-00053,AMI-00024,Health-Inpatient,"161,700",16 August 2024,Eldoret , Pending,J. Mwangi,
+CLM-00203,AMI-00201,Property-Fire,"789,200",2024-05-08, Nyeri,rejected,A. Otieno,
+CLM-00474,AMI-00130,Property-Burglary,303100,2024-02-15,NaIrObI,approved,F. Wanjiru,documents pending
+CLM-00254,AMI-00134,HEALTH-INPATIENT,"93,600",12-05-2024,NAIROBI,REJECTED ,P. Achieng,site visit done
+CLM-00132,AMI-00002,Motor-Accident,"174,300",15-02-2024,MOMBASA ,approved,F. Wanjiru,second opinion requested
+CLM-00219,AMI-00114,Motor-Accident,,18/03/2024,eldoret ,under-review,J. Mwangi,
+CLM-00367,AMI-00183,Health Outpatient,"9,500",2024-08-16,nyeri ,pending,J. Mwangi,
+CLM-00451,AMI-00211,motor accident,"277,100","September 19, 2024",Nyeri,Rejected,P. Achieng,
+CLM-00033,AMI-00088,Motor-Theft,609100,2024-03-12,ELDORET , Pending,J. Mwangi,
+CLM-00490,AMI-00195,property fire,"828,500",30/03/2024, Nairobi ,REJECTED ,F. Wanjiru,documents pending
+CLM-00371,AMI-00195,HEALTH-OUTPATIENT ,"14,400",07/03/2024,Nyeri,REJECTED ,M. Hassan,
+CLM-00046,AMI-00001,Health-Inpatient,111100,07 January 2024, Nyeri,Pending,P. Achieng,customer unreachable
+CLM-00319,AMI-00129,Property Fire ,778500,09.02.2024,Nyeri,approved,P. Achieng,second opinion requested
+CLM-00169,AMI-00083,Property-Fire,"1,002,500","April 20, 2024", kisumu,Approved ,J. Mwangi,
+CLM-00383,AMI-00144,motor theft,542900,16 January 2024,eldoret,Rejected,P. Achieng,site visit done
+CLM-00247,AMI-00105,motor theft,581200,02.05.2024,Nakuru,Pending,L. Njeri,documents pending
+CLM-00327,AMI-00136,MOTOR-ACCIDENT,500,2024-09-22,nyeri ,Approved ,S. Kimani,documents pending
+CLM-00097,AMI-00154,motor theft,597900,"August 28, 2024",ELDORET ,approved,J. Mwangi,police abstract attached
+CLM-00373,AMI-00003,HEALTH-INPATIENT,500,16-06-2024,MOMBASA ,PENDING,P. Achieng,customer unreachable
+CLM-00228,AMI-00082,Motor Theft,"648,000",17 May 2024,MOMBASA,APPROVED,S. Kimani,
+CLM-00167,AMI-00076,Health Outpatient,"11,300",14/02/2024,NYERI ,PENDING,M. Hassan,documents pending
+CLM-00494,AMI-00220,Health Outpatient,7600,20.02.2024,nakuru ,under-review,D. Cheruiyot,
+CLM-00110,AMI-00103,Health Outpatient,1800,2024-05-31,eldoret,Approved ,F. Wanjiru,site visit done
+CLM-00061,AMI-00048,HEALTH-OUTPATIENT ,8800,09/06/2024,NYERI,Approved ,A. Otieno,
+CLM-00375,AMI-00098,HEALTH-OUTPATIENT ,"7,800",21/06/2024,NYERI ,Approved,D. Cheruiyot,
+CLM-00475,AMI-00155,Property-Fire,"546,700","August 01, 2024",Eldoret, Pending,S. Kimani,customer unreachable
+CLM-00215,AMI-00004,property burglary,"585,000","June 02, 2024",Nairobi,REJECTED ,L. Njeri,
+CLM-00150,AMI-00161,Health Inpatient ,98600,15/03/2024,eldoret,Rejected,P. Achieng,police abstract attached
+CLM-00035,AMI-00115,MOTOR-ACCIDENT,27100,14/06/2024,Mombasa,APPROVED,P. Achieng,documents pending
+CLM-00198,AMI-00140,HEALTH-INPATIENT,"181,300",02/07/2024,KISUMU,under-review,A. Otieno,documents pending
+CLM-00066,AMI-00007,motor theft,601900,2024-05-08,ELDORET ,under review,F. Wanjiru,second opinion requested
+CLM-00349,AMI-00136,Health Outpatient,6500,19.09.2024,NAKURU ,APPROVED,M. Hassan,documents pending
+CLM-00186,AMI-00086,HEALTH-OUTPATIENT ,12100,05/05/2024,Eldoret ,Rejected,M. Hassan,site visit done
+CLM-00273,AMI-00116,Health-Outpatient,13000,01.04.2024,NaIrObI,Pending,A. Otieno,second opinion requested
+CLM-00398,AMI-00173,Property Burglary,410400,31 January 2024,Eldoret,APPROVED,M. Hassan,
+CLM-00178,AMI-00211,Property-Fire,"694,900",18.09.2024,MOMBASA ,Rejected,L. Njeri,
+CLM-00366,AMI-00176,property burglary,227900,17 July 2024,ELDORET ,under-review,A. Otieno,site visit done
+CLM-00224,AMI-00093,HEALTH-INPATIENT,"103,000","February 06, 2024",Kisumu ,PENDING,D. Cheruiyot,documents pending
+CLM-00301,AMI-00018,PROPERTY-FIRE,,30.04.2024,NAKURU,under review,L. Njeri,documents pending
+CLM-00124,AMI-00047,Property Burglary,106900,11 January 2024,NAKURU,Approved,D. Cheruiyot,
+CLM-00103,AMI-00074,MOTOR-ACCIDENT,,"September 08, 2024",nairobi,under review,F. Wanjiru,second opinion requested
+CLM-00175,AMI-00066,Property Fire ,"1,102,900",08-06-2024,Nakuru,UNDER REVIEW ,L. Njeri,police abstract attached
+CLM-00204,AMI-00076,health inpatient,115300,27.03.2024,nairobi,PENDING,D. Cheruiyot,police abstract attached
+CLM-00016,AMI-00203,health inpatient,"132,400",2024-06-25,eldoret, Pending,D. Cheruiyot,
+CLM-00060,AMI-00157,motor theft,"212,600",15 March 2024,Eldoret,Approved,S. Kimani,
+CLM-00231,AMI-00015,Health-Outpatient,"4,000",2024-06-20,ELDORET ,UNDER REVIEW ,P. Achieng,second opinion requested
+CLM-00321,AMI-00187,MOTOR-THEFT ,445000,21-02-2024,NAIROBI, Pending,P. Achieng,site visit done
+CLM-00210,AMI-00145,Property Fire ,"503,400",24.06.2024,Nakuru,approved,S. Kimani,documents pending
+CLM-00027,AMI-00024,PROPERTY-BURGLARY ,"286,300","August 22, 2024",Eldoret,Approved,L. Njeri,customer unreachable
+CLM-00340,AMI-00053,health inpatient,"63,800","March 02, 2024",Nyeri,Under Review,M. Hassan,site visit done
+CLM-00233,AMI-00169,Property Fire ,"547,300","May 12, 2024",nyeri ,UNDER REVIEW ,J. Mwangi,site visit done
+CLM-00127,AMI-00082,PROPERTY-BURGLARY ,67700,2024-01-21,Eldoret,Under Review,J. Mwangi,police abstract attached
+CLM-00065,AMI-00192,MOTOR-ACCIDENT,"166,500",19-05-2024,Kisumu,Approved,P. Achieng,customer unreachable
+CLM-00043,AMI-00080,motor accident,"313,400",22/08/2024,Nairobi,Under Review,P. Achieng,police abstract attached
+CLM-00497,AMI-00085,HEALTH-INPATIENT,164900,15.01.2024,eldoret ,Under Review,F. Wanjiru,second opinion requested
+CLM-00342,AMI-00169,Property-Burglary,"293,600",22-08-2024, Nyeri,approved,M. Hassan,documents pending
+CLM-00047,AMI-00093,health outpatient,6300,23-05-2024, Nairobi ,APPROVED,P. Achieng,
+CLM-00428,AMI-00044,Property-Burglary,"15,800","August 12, 2024",Eldoret ,rejected,J. Mwangi,
+CLM-00386,AMI-00204,property fire,1178500,21 June 2024,ELDORET ,Rejected,S. Kimani,documents pending
+CLM-00038,AMI-00012,Property-Burglary,80000,2024-03-12,NAKURU,APPROVED,S. Kimani,
+CLM-00107,AMI-00177,health inpatient,141900,01.05.2024,NAKURU,rejected,P. Achieng,site visit done
+CLM-00083,AMI-00206,Health-Outpatient,3000,2024-01-21,NYERI ,Rejected,A. Otieno,customer unreachable
+CLM-00093,AMI-00104,motor theft,"778,100","February 23, 2024",NaIrObI,Rejected,F. Wanjiru,police abstract attached
+CLM-00206,AMI-00188,Motor Theft,4656000,11.02.2024,Mombasa ,Rejected,F. Wanjiru,
+CLM-00179,AMI-00091,PROPERTY-FIRE,10112000,22.01.2024,NYERI ,Under Review,J. Mwangi,
+CLM-00048,AMI-00049,Health Inpatient ,81900,23 July 2024,NAKURU ,rejected,A. Otieno,
+CLM-00055,AMI-00022,PROPERTY-FIRE,"568,300","March 05, 2024",Mombasa ,Approved,P. Achieng,
+CLM-00227,AMI-00019,Motor Theft,"737,100",01.04.2024,Kisumu, Pending,M. Hassan,customer unreachable
+CLM-00082,AMI-00120,MOTOR-THEFT ,378200,30 August 2024,ELDORET ,Approved,A. Otieno,
+CLM-00277,AMI-00033,Motor Theft,801300,02.05.2024,NaIrObI,approved,A. Otieno,
+CLM-00418,AMI-00041,health inpatient,77100,11 September 2024,eldoret,under review,J. Mwangi,
+CLM-00448,AMI-00043,Health Inpatient ,500,"July 11, 2024",Mombasa ,pending,L. Njeri,
+CLM-00239,AMI-00197,Health Inpatient ,"112,600",02/06/2024,KISUMU,APPROVED,D. Cheruiyot,
+CLM-00348,AMI-00039,property burglary,"393,500",23/02/2024, Nairobi ,Pending,A. Otieno,site visit done
+CLM-00469,AMI-00134,Property-Fire,"1,014,900",23.01.2024,Kisumu,PENDING,F. Wanjiru,
+CLM-00145,AMI-00165,motor accident,107600,20.07.2024,MOMBASA,under review,F. Wanjiru,customer unreachable
+CLM-00380,AMI-00024,Motor Theft,"801,000",23/04/2024, Nyeri,Approved,S. Kimani,customer unreachable
+CLM-00051,AMI-00036,PROPERTY-FIRE,"962,700",24-06-2024,NAKURU ,approved,D. Cheruiyot,documents pending
+CLM-00166,AMI-00112,motor theft,610100,02 March 2024,Nairobi,pending,A. Otieno,second opinion requested
+CLM-00430,AMI-00022,Health Inpatient ,403000,14.08.2024,nyeri ,rejected,P. Achieng,documents pending
+CLM-00004,AMI-00128,property burglary,336900,26/08/2024,NAKURU,Under Review,D. Cheruiyot,site visit done
+CLM-00471,AMI-00099,Motor Accident ,"212,600",12-07-2024,eldoret,pending,A. Otieno,
+CLM-00157,AMI-00196,HEALTH-OUTPATIENT ,10600,"May 07, 2024",MOMBASA ,Pending,J. Mwangi,
+CLM-00399,AMI-00170,Health Outpatient,"15,300",25/01/2024,Nakuru,Rejected,M. Hassan,
+CLM-00104,AMI-00073,Motor-Theft,663900,11 February 2024,Eldoret ,Approved,D. Cheruiyot,customer unreachable
+CLM-00499,AMI-00215,MOTOR-THEFT ,538600,13/03/2024, Nairobi ,rejected,M. Hassan,police abstract attached
+CLM-00345,AMI-00058,health inpatient,,31/03/2024,Kisumu,under review,J. Mwangi,customer unreachable
+CLM-00011,AMI-00102,Health-Outpatient,"4,000",2024-04-16,Eldoret,rejected,A. Otieno,customer unreachable
+CLM-00357,AMI-00183,Motor Theft,,28-02-2024,Nairobi,APPROVED,S. Kimani,
+CLM-00356,AMI-00051,motor accident,"81,700",03/01/2024,MOMBASA,APPROVED,S. Kimani,
+CLM-00125,AMI-00055,PROPERTY-BURGLARY ,296700,23 June 2024,ELDORET ,Rejected,P. Achieng,police abstract attached
+CLM-00078,AMI-00018,Motor-Accident,183600,"June 03, 2024",Mombasa ,Approved,M. Hassan,customer unreachable
+CLM-00191,AMI-00144,HEALTH-INPATIENT,97100,15-02-2024,Mombasa , Pending,F. Wanjiru,police abstract attached
+CLM-00441,AMI-00107,Health Inpatient ,,26/04/2024,nairobi,pending,L. Njeri,documents pending
+CLM-00315,AMI-00195,Motor Accident ,182800,"August 28, 2024",MOMBASA,Under Review,S. Kimani,second opinion requested
+CLM-00070,AMI-00066,Property Burglary,"160,700",24-05-2024,NAKURU,rejected,D. Cheruiyot,
+CLM-00470,AMI-00007,Property Burglary,269600,21-07-2024, Nyeri,under-review,A. Otieno,
+CLM-00476,AMI-00079,property fire,1222500,"April 20, 2024", Nakuru,Pending,M. Hassan,site visit done
+CLM-00310,AMI-00190,Motor Theft,607000,22 February 2024,Kisumu,APPROVED,F. Wanjiru,customer unreachable
+CLM-00129,AMI-00026,PROPERTY-BURGLARY ,501900,07/01/2024,Kisumu ,Rejected,P. Achieng,site visit done
+CLM-00413,AMI-00076,PROPERTY-BURGLARY ,"303,900",2024-02-06,MOMBASA,Approved,S. Kimani,
+CLM-00142,AMI-00162,health outpatient,"11,000","September 22, 2024", Nakuru,approved,A. Otieno,
+CLM-00230,AMI-00049,Health Inpatient ,155800,"April 18, 2024", kisumu,pending,J. Mwangi,second opinion requested
+CLM-00291,AMI-00214,PROPERTY-BURGLARY ,"375,000",08 June 2024,NAKURU,Rejected,M. Hassan,
+CLM-00347,AMI-00149,Health Inpatient ,"106,800",29-04-2024,eldoret ,rejected,A. Otieno,second opinion requested
+CLM-00435,AMI-00009,Health-Outpatient,15000,05.06.2024,MOMBASA, Pending,D. Cheruiyot,second opinion requested
+CLM-00075,AMI-00073,Property-Burglary,284500,08-06-2024,NYERI, Pending,L. Njeri,police abstract attached
+CLM-00351,AMI-00180,Property Burglary,397200,18-04-2024,NYERI, Pending,J. Mwangi,second opinion requested
+CLM-00202,AMI-00012,Motor Accident ,221100,05 September 2024, Nairobi ,pending,P. Achieng,
+CLM-00350,AMI-00134,PROPERTY-FIRE,1658300,"April 02, 2024",nyeri ,Pending,S. Kimani,police abstract attached
+CLM-00362,AMI-00216,Property-Burglary,250900,18/06/2024,NYERI ,APPROVED,J. Mwangi,documents pending
+CLM-00161,AMI-00184,Motor-Theft,,2024-03-04,Eldoret ,under review,P. Achieng,
+CLM-00095,AMI-00058,Motor Accident ,250800,04.03.2024,KISUMU,PENDING,J. Mwangi,site visit done
+CLM-00067,AMI-00156,motor theft,"431,300",04/07/2024, Nakuru,Approved,S. Kimani,police abstract attached
+CLM-00465,AMI-00179,Health Outpatient,"10,700",2024-07-17,eldoret ,under-review,S. Kimani,site visit done
+CLM-00168,AMI-00118,Property-Fire,"167,800",19-06-2024,MOMBASA,rejected,L. Njeri,police abstract attached
+CLM-00414,AMI-00069,motor accident,"174,400",2024-05-23,KISUMU,approved,L. Njeri,customer unreachable
+CLM-00427,AMI-00149,property burglary,,"February 08, 2024",nairobi,PENDING,S. Kimani,
+CLM-00268,AMI-00011,MOTOR-THEFT ,610600,"June 12, 2024",NYERI,rejected,P. Achieng,site visit done
+CLM-00325,AMI-00071,Motor-Theft,,11/01/2024, kisumu,Rejected,D. Cheruiyot,customer unreachable
+CLM-00225,AMI-00016,PROPERTY-BURGLARY ,"517,000",03/09/2024,NAKURU,pending,S. Kimani,documents pending
+CLM-00396,AMI-00010,motor accident,193400,27/03/2024,NaIrObI,UNDER REVIEW ,F. Wanjiru,
+CLM-00094,AMI-00209,Property Fire ,"776,800",2024-09-01, Nyeri,approved,L. Njeri,police abstract attached
+CLM-00393,AMI-00005,health inpatient,"104,400",07.01.2024,Kisumu ,Pending,P. Achieng,second opinion requested
+CLM-00460,AMI-00082,motor theft,"383,200",22 May 2024,MOMBASA ,approved,F. Wanjiru,documents pending
+CLM-00050,AMI-00104,Property Burglary,"28,200",23-03-2024, Nairobi ,Rejected,M. Hassan,documents pending
+CLM-00133,AMI-00116,Property Burglary,376700,15.03.2024,nyeri ,Approved,P. Achieng,second opinion requested
+CLM-00423,AMI-00131,Health Outpatient,5900,2024-02-16,MOMBASA,under-review,J. Mwangi,documents pending
+CLM-00468,AMI-00121,Motor-Theft,"642,900",14 April 2024,Mombasa ,UNDER REVIEW ,J. Mwangi,site visit done
+CLM-00445,AMI-00183,Motor Theft,580000,28-02-2024, kisumu,PENDING,S. Kimani,documents pending
+CLM-00028,AMI-00202,Motor Theft,"774,300",02/04/2024,KISUMU,Rejected,L. Njeri,site visit done
+CLM-00001,AMI-00083,Motor Theft,"1,004,200",30 January 2024,Nakuru,rejected,J. Mwangi,
+CLM-00463,AMI-00215,PROPERTY-FIRE,"1,187,200",2024-05-09,nairobi, Pending,M. Hassan,
+CLM-00118,AMI-00176,HEALTH-INPATIENT,-247900,03-09-2024, Nairobi , Pending,D. Cheruiyot,documents pending
+CLM-00158,AMI-00092,Property-Fire,"1,050,900",05.05.2024,Kisumu ,under-review,J. Mwangi,site visit done
+CLM-00415,AMI-00046,Motor-Theft,793600,"September 20, 2024",Kisumu ,Under Review,L. Njeri,
+CLM-00079,AMI-00183,property fire,191200,"April 23, 2024",NAKURU,Under Review,S. Kimani,second opinion requested
+CLM-00482,AMI-00143,HEALTH-OUTPATIENT ,,11 February 2024,Mombasa ,APPROVED,F. Wanjiru,customer unreachable
+CLM-00455,AMI-00097,Health-Outpatient,"10,600",18/09/2024,Mombasa,rejected,P. Achieng,police abstract attached
+CLM-00111,AMI-00180,Property Fire ,434300,27-04-2024,nyeri ,Rejected,A. Otieno,second opinion requested
+CLM-00062,AMI-00009,Health-Inpatient,"53,000",27-03-2024, Nairobi ,Approved,A. Otieno,site visit done
+CLM-00491,AMI-00049,Health-Inpatient,5000,29 March 2024,Nairobi,Rejected,M. Hassan,
+CLM-00429,AMI-00164,Motor-Theft,"857,500",29/02/2024,Nairobi,UNDER REVIEW ,A. Otieno,documents pending
+CLM-00421,AMI-00109,Health Inpatient ,106800,29/03/2024,KISUMU,Under Review,D. Cheruiyot,
+CLM-00250,AMI-00157,HEALTH-INPATIENT,"159,100","September 01, 2024",NAKURU,rejected,F. Wanjiru,
+CLM-00074,AMI-00159,health inpatient,"163,800",27 July 2024,nairobi,under-review,F. Wanjiru,
+CLM-00385,AMI-00150,Property-Burglary,500,20 April 2024,Kisumu,Under Review,J. Mwangi,second opinion requested
+CLM-00260,AMI-00218,MOTOR-ACCIDENT,285000,20 April 2024,Nakuru,under-review,J. Mwangi,documents pending
+CLM-00236,AMI-00200,Property-Burglary,425300,2024-06-25,Eldoret,Under Review,S. Kimani,customer unreachable
+CLM-00411,AMI-00029,Motor Theft,613600,2024-04-01, kisumu,Approved ,D. Cheruiyot,documents pending
+CLM-00437,AMI-00183,Motor Theft,"614,000",05 May 2024,KISUMU,approved,F. Wanjiru,
+CLM-00063,AMI-00144,motor theft,783700,07-06-2024,eldoret ,Approved ,J. Mwangi,second opinion requested
+CLM-00450,AMI-00035,HEALTH-INPATIENT,129300,23 April 2024, Nyeri,under review,D. Cheruiyot,
+CLM-00298,AMI-00116,Motor-Accident,,"June 05, 2024",Kisumu, Pending,P. Achieng,documents pending
+CLM-00021,AMI-00118,Property Burglary,473100,03/08/2024,NAKURU ,Rejected,F. Wanjiru,
+CLM-00359,AMI-00160,Motor-Accident,167000,23/06/2024, Nakuru,under-review,F. Wanjiru,documents pending
+CLM-00278,AMI-00177,Property-Burglary,"250,000",2024-01-16,eldoret ,under review,A. Otieno,site visit done
+CLM-00156,AMI-00150,Health Inpatient ,"184,300",2024-01-29,Nakuru, Pending,D. Cheruiyot,site visit done
+CLM-00477,AMI-00073,HEALTH-OUTPATIENT ,"10,700",20/05/2024,nyeri ,Approved,A. Otieno,second opinion requested
+CLM-00069,AMI-00045,MOTOR-THEFT ,"617,200","April 30, 2024",nyeri ,APPROVED,P. Achieng,site visit done
+CLM-00195,AMI-00001,motor accident,"192,200",25-01-2024,Mombasa,Approved ,J. Mwangi,customer unreachable
+CLM-00080,AMI-00103,Property Fire ,755800,"April 08, 2024", Nairobi ,APPROVED,D. Cheruiyot,

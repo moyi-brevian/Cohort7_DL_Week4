@@ -1,0 +1,2202 @@
+[
+  {
+    "policy_number": "AMI-00001",
+    "full_name": "Dennis Onyango",
+    "age": 32,
+    "gender": "M",
+    "cover_type": "Property Cover",
+    "sum_insured_kes": 500000,
+    "region": "Eldoret",
+    "join_date": "2020-11-23"
+  },
+  {
+    "policy_number": "AMI-00002",
+    "full_name": "Joseph Wafula",
+    "age": 41,
+    "gender": null,
+    "cover_type": "Property Cover",
+    "sum_insured_kes": 2000000,
+    "region": "Mombasa",
+    "join_date": "2020-02-12"
+  },
+  {
+    "policy_number": "AMI-00003",
+    "full_name": "Grace Kamau",
+    "age": 66,
+    "gender": "F",
+    "cover_type": "Health Cover",
+    "sum_insured_kes": 800000,
+    "region": "Nairobi",
+    "join_date": "2020-01-26"
+  },
+  {
+    "policy_number": "AMI-00004",
+    "full_name": "Samuel Njoroge",
+    "age": 45,
+    "gender": "F",
+    "cover_type": "Health Cover",
+    "sum_insured_kes": 5000000,
+    "region": "Eldoret",
+    "join_date": "2023-07-08"
+  },
+  {
+    "policy_number": "AMI-00005",
+    "full_name": "Collins Kamau",
+    "age": 40,
+    "gender": "F",
+    "cover_type": "Motor Third-Party",
+    "sum_insured_kes": 2000000,
+    "region": "Mombasa",
+    "join_date": "2019-06-12"
+  },
+  {
+    "policy_number": "AMI-00006",
+    "full_name": "Peter Njoroge",
+    "age": 46,
+    "gender": "F",
+    "cover_type": "Motor Comprehensive",
+    "sum_insured_kes": 3500000,
+    "region": "Nyeri",
+    "join_date": "2023-09-29"
+  },
+  {
+    "policy_number": "AMI-00007",
+    "full_name": "Faith Wekesa",
+    "age": 52,
+    "gender": "M",
+    "cover_type": "Health Cover",
+    "sum_insured_kes": 1200000,
+    "region": "Nairobi",
+    "join_date": "2021-04-20"
+  },
+  {
+    "policy_number": "AMI-00008",
+    "full_name": "James Barasa",
+    "age": 27,
+    "gender": "F",
+    "cover_type": "Motor Third-Party",
+    "sum_insured_kes": 800000,
+    "region": "Mombasa",
+    "join_date": "2019-02-27"
+  },
+  {
+    "policy_number": "AMI-00009",
+    "full_name": "James Mutiso",
+    "age": 42,
+    "gender": "F",
+    "cover_type": "Property Cover",
+    "sum_insured_kes": 2000000,
+    "region": "Nyeri",
+    "join_date": "2019-04-27"
+  },
+  {
+    "policy_number": "AMI-00010",
+    "full_name": "Grace Kamau",
+    "age": 72,
+    "gender": "F",
+    "cover_type": "Property Cover",
+    "sum_insured_kes": 5000000,
+    "region": "Mombasa",
+    "join_date": "2021-10-06"
+  },
+  {
+    "policy_number": "AMI-00011",
+    "full_name": "Winnie Mutiso",
+    "age": 51,
+    "gender": "F",
+    "cover_type": "Property Cover",
+    "sum_insured_kes": 1200000,
+    "region": "Kisumu",
+    "join_date": "2019-06-24"
+  },
+  {
+    "policy_number": "AMI-00012",
+    "full_name": "Ann Odhiambo",
+    "age": 60,
+    "gender": "F",
+    "cover_type": "Motor Third-Party",
+    "sum_insured_kes": 3500000,
+    "region": "Mombasa",
+    "join_date": "2019-10-09"
+  },
+  {
+    "policy_number": "AMI-00013",
+    "full_name": "Brian Odhiambo",
+    "age": 39,
+    "gender": "F",
+    "cover_type": "Property Cover",
+    "sum_insured_kes": 800000,
+    "region": "Nairobi",
+    "join_date": "2019-07-09"
+  },
+  {
+    "policy_number": "AMI-00014",
+    "full_name": "Winnie Kamau",
+    "age": 61,
+    "gender": "F",
+    "cover_type": "Property Cover",
+    "sum_insured_kes": 1200000,
+    "region": "Nyeri",
+    "join_date": "2022-07-20"
+  },
+  {
+    "policy_number": "AMI-00015",
+    "full_name": "Peter Mutiso",
+    "age": 57,
+    "gender": "M",
+    "cover_type": "Motor Third-Party",
+    "sum_insured_kes": 500000,
+    "region": "Kisumu",
+    "join_date": "2022-02-11"
+  },
+  {
+    "policy_number": "AMI-00016",
+    "full_name": "Peter Njoroge",
+    "age": 26,
+    "gender": "M",
+    "cover_type": "Motor Comprehensive",
+    "sum_insured_kes": 500000,
+    "region": "Nyeri",
+    "join_date": "2023-03-12"
+  },
+  {
+    "policy_number": "AMI-00017",
+    "full_name": "Samuel Barasa",
+    "age": 52,
+    "gender": "F",
+    "cover_type": "Motor Comprehensive",
+    "sum_insured_kes": 5000000,
+    "region": "Kisumu",
+    "join_date": "2022-04-20"
+  },
+  {
+    "policy_number": "AMI-00018",
+    "full_name": "Brian Kamau",
+    "age": 45,
+    "gender": "F",
+    "cover_type": "Health Cover",
+    "sum_insured_kes": 2000000,
+    "region": "Nyeri",
+    "join_date": "2021-05-12"
+  },
+  {
+    "policy_number": "AMI-00019",
+    "full_name": "Kevin Onyango",
+    "age": 52,
+    "gender": "M",
+    "cover_type": "Motor Third-Party",
+    "sum_insured_kes": 2000000,
+    "region": "Kisumu",
+    "join_date": "2021-01-30"
+  },
+  {
+    "policy_number": "AMI-00020",
+    "full_name": "Lucy Wekesa",
+    "age": 20,
+    "gender": "F",
+    "cover_type": "Property Cover",
+    "sum_insured_kes": 2000000,
+    "region": "Eldoret",
+    "join_date": "2019-12-25"
+  },
+  {
+    "policy_number": "AMI-00021",
+    "full_name": "Grace Njoroge",
+    "age": null,
+    "gender": "F",
+    "cover_type": "Motor Comprehensive",
+    "sum_insured_kes": 5000000,
+    "region": "Kisumu",
+    "join_date": "2023-11-18"
+  },
+  {
+    "policy_number": "AMI-00022",
+    "full_name": "Collins Njoroge",
+    "age": 34,
+    "gender": "F",
+    "cover_type": "Property Cover",
+    "sum_insured_kes": 1200000,
+    "region": "Nyeri",
+    "join_date": "2023-11-27"
+  },
+  {
+    "policy_number": "AMI-00023",
+    "full_name": "Winnie Kamau",
+    "age": 33,
+    "gender": "M",
+    "cover_type": "Motor Comprehensive",
+    "sum_insured_kes": 1200000,
+    "region": "Nakuru",
+    "join_date": "2023-08-02"
+  },
+  {
+    "policy_number": "AMI-00024",
+    "full_name": "Collins Mutiso",
+    "age": 46,
+    "gender": "F",
+    "cover_type": "Property Cover",
+    "sum_insured_kes": 5000000,
+    "region": "Nakuru",
+    "join_date": "2021-08-27"
+  },
+  {
+    "policy_number": "AMI-00025",
+    "full_name": "Dennis Odhiambo",
+    "age": 19,
+    "gender": "F",
+    "cover_type": "Motor Comprehensive",
+    "sum_insured_kes": 3500000,
+    "region": "Mombasa",
+    "join_date": "2021-06-19"
+  },
+  {
+    "policy_number": "AMI-00026",
+    "full_name": "Samuel Wafula",
+    "age": 39,
+    "gender": "F",
+    "cover_type": "Health Cover",
+    "sum_insured_kes": 5000000,
+    "region": "Nairobi",
+    "join_date": "2020-11-01"
+  },
+  {
+    "policy_number": "AMI-00027",
+    "full_name": "Brian Odhiambo",
+    "age": 58,
+    "gender": "M",
+    "cover_type": "Motor Comprehensive",
+    "sum_insured_kes": 2000000,
+    "region": "Nairobi",
+    "join_date": "2020-10-21"
+  },
+  {
+    "policy_number": "AMI-00028",
+    "full_name": "Peter Mutiso",
+    "age": 53,
+    "gender": "M",
+    "cover_type": "Health Cover",
+    "sum_insured_kes": 3500000,
+    "region": "Nyeri",
+    "join_date": "2020-07-18"
+  },
+  {
+    "policy_number": "AMI-00029",
+    "full_name": "Collins Mutiso",
+    "age": 63,
+    "gender": "F",
+    "cover_type": "Motor Third-Party",
+    "sum_insured_kes": 2000000,
+    "region": "Mombasa",
+    "join_date": "2023-11-30"
+  },
+  {
+    "policy_number": "AMI-00030",
+    "full_name": "Peter Njoroge",
+    "age": 71,
+    "gender": "M",
+    "cover_type": "Property Cover",
+    "sum_insured_kes": 2000000,
+    "region": "Mombasa",
+    "join_date": "2023-05-05"
+  },
+  {
+    "policy_number": "AMI-00031",
+    "full_name": "Diana Kariuki",
+    "age": 60,
+    "gender": "M",
+    "cover_type": "Motor Third-Party",
+    "sum_insured_kes": 2000000,
+    "region": "Kisumu",
+    "join_date": "2023-08-19"
+  },
+  {
+    "policy_number": "AMI-00032",
+    "full_name": "Dennis Mutiso",
+    "age": 42,
+    "gender": "M",
+    "cover_type": "Motor Third-Party",
+    "sum_insured_kes": 800000,
+    "region": "Mombasa",
+    "join_date": "2022-08-11"
+  },
+  {
+    "policy_number": "AMI-00033",
+    "full_name": "Samuel Barasa",
+    "age": 62,
+    "gender": "M",
+    "cover_type": "Motor Third-Party",
+    "sum_insured_kes": 500000,
+    "region": "Kisumu",
+    "join_date": "2019-07-07"
+  },
+  {
+    "policy_number": "AMI-00034",
+    "full_name": "Peter Odhiambo",
+    "age": 54,
+    "gender": "F",
+    "cover_type": "Health Cover",
+    "sum_insured_kes": 1200000,
+    "region": "Kisumu",
+    "join_date": "2022-10-18"
+  },
+  {
+    "policy_number": "AMI-00035",
+    "full_name": "Faith Wekesa",
+    "age": 26,
+    "gender": "F",
+    "cover_type": "Motor Third-Party",
+    "sum_insured_kes": 3500000,
+    "region": "Kisumu",
+    "join_date": "2023-11-09"
+  },
+  {
+    "policy_number": "AMI-00036",
+    "full_name": "Kevin Wekesa",
+    "age": 31,
+    "gender": "M",
+    "cover_type": "Property Cover",
+    "sum_insured_kes": 500000,
+    "region": "Kisumu",
+    "join_date": "2020-06-08"
+  },
+  {
+    "policy_number": "AMI-00037",
+    "full_name": "Grace Onyango",
+    "age": 41,
+    "gender": "M",
+    "cover_type": "Motor Comprehensive",
+    "sum_insured_kes": 5000000,
+    "region": "Mombasa",
+    "join_date": "2024-05-03"
+  },
+  {
+    "policy_number": "AMI-00038",
+    "full_name": "Samuel Cherono",
+    "age": 58,
+    "gender": "F",
+    "cover_type": "Motor Comprehensive",
+    "sum_insured_kes": 3500000,
+    "region": "Eldoret",
+    "join_date": "2020-12-17"
+  },
+  {
+    "policy_number": "AMI-00039",
+    "full_name": "Mercy Onyango",
+    "age": 36,
+    "gender": "F",
+    "cover_type": "Health Cover",
+    "sum_insured_kes": 800000,
+    "region": "Nakuru",
+    "join_date": "2023-11-26"
+  },
+  {
+    "policy_number": "AMI-00040",
+    "full_name": "Grace Barasa",
+    "age": 34,
+    "gender": "M",
+    "cover_type": "Motor Third-Party",
+    "sum_insured_kes": 3500000,
+    "region": "Nyeri",
+    "join_date": "2021-05-08"
+  },
+  {
+    "policy_number": "AMI-00041",
+    "full_name": "Collins Mutiso",
+    "age": 72,
+    "gender": "M",
+    "cover_type": "Motor Third-Party",
+    "sum_insured_kes": 500000,
+    "region": "Nakuru",
+    "join_date": "2019-05-03"
+  },
+  {
+    "policy_number": "AMI-00042",
+    "full_name": "Mercy Mutiso",
+    "age": 71,
+    "gender": "F",
+    "cover_type": "Motor Third-Party",
+    "sum_insured_kes": 2000000,
+    "region": "Nyeri",
+    "join_date": "2019-11-15"
+  },
+  {
+    "policy_number": "AMI-00043",
+    "full_name": "Lucy Njoroge",
+    "age": 47,
+    "gender": "M",
+    "cover_type": "Motor Third-Party",
+    "sum_insured_kes": 800000,
+    "region": "Kisumu",
+    "join_date": "2021-02-27"
+  },
+  {
+    "policy_number": "AMI-00044",
+    "full_name": "Dennis Barasa",
+    "age": 34,
+    "gender": "F",
+    "cover_type": "Health Cover",
+    "sum_insured_kes": 3500000,
+    "region": "Eldoret",
+    "join_date": "2023-11-06"
+  },
+  {
+    "policy_number": "AMI-00045",
+    "full_name": "Grace Barasa",
+    "age": 59,
+    "gender": "F",
+    "cover_type": "Health Cover",
+    "sum_insured_kes": 3500000,
+    "region": "Nairobi",
+    "join_date": "2019-11-08"
+  },
+  {
+    "policy_number": "AMI-00046",
+    "full_name": "Samuel Njoroge",
+    "age": 20,
+    "gender": "F",
+    "cover_type": "Motor Third-Party",
+    "sum_insured_kes": 5000000,
+    "region": "Eldoret",
+    "join_date": "2023-06-19"
+  },
+  {
+    "policy_number": "AMI-00047",
+    "full_name": "James Njoroge",
+    "age": 66,
+    "gender": "F",
+    "cover_type": "Health Cover",
+    "sum_insured_kes": 1200000,
+    "region": "Kisumu",
+    "join_date": "2022-08-27"
+  },
+  {
+    "policy_number": "AMI-00048",
+    "full_name": "Dennis Kamau",
+    "age": 70,
+    "gender": "M",
+    "cover_type": "Health Cover",
+    "sum_insured_kes": 5000000,
+    "region": "Nakuru",
+    "join_date": "2019-07-27"
+  },
+  {
+    "policy_number": "AMI-00049",
+    "full_name": "Samuel Kariuki",
+    "age": 63,
+    "gender": "M",
+    "cover_type": "Health Cover",
+    "sum_insured_kes": 2000000,
+    "region": "Kisumu",
+    "join_date": "2019-10-10"
+  },
+  {
+    "policy_number": "AMI-00050",
+    "full_name": "Kevin Cherono",
+    "age": 63,
+    "gender": "M",
+    "cover_type": "Motor Comprehensive",
+    "sum_insured_kes": 500000,
+    "region": "Nakuru",
+    "join_date": "2020-08-02"
+  },
+  {
+    "policy_number": "AMI-00051",
+    "full_name": "Mercy Onyango",
+    "age": 53,
+    "gender": "F",
+    "cover_type": "Motor Comprehensive",
+    "sum_insured_kes": 5000000,
+    "region": "Mombasa",
+    "join_date": "2024-05-07"
+  },
+  {
+    "policy_number": "AMI-00052",
+    "full_name": "Collins Wekesa",
+    "age": 63,
+    "gender": null,
+    "cover_type": "Motor Third-Party",
+    "sum_insured_kes": 500000,
+    "region": "Mombasa",
+    "join_date": "2019-01-22"
+  },
+  {
+    "policy_number": "AMI-00053",
+    "full_name": "Ann Mutiso",
+    "age": 68,
+    "gender": "M",
+    "cover_type": "Property Cover",
+    "sum_insured_kes": 1200000,
+    "region": "Nairobi",
+    "join_date": "2024-05-21"
+  },
+  {
+    "policy_number": "AMI-00054",
+    "full_name": "Ann Njoroge",
+    "age": 65,
+    "gender": "F",
+    "cover_type": "Health Cover",
+    "sum_insured_kes": 2000000,
+    "region": "Mombasa",
+    "join_date": "2022-11-03"
+  },
+  {
+    "policy_number": "AMI-00055",
+    "full_name": "Collins Mutiso",
+    "age": 70,
+    "gender": "M",
+    "cover_type": "Motor Comprehensive",
+    "sum_insured_kes": 5000000,
+    "region": "Nyeri",
+    "join_date": "2022-12-15"
+  },
+  {
+    "policy_number": "AMI-00056",
+    "full_name": "Winnie Barasa",
+    "age": 28,
+    "gender": null,
+    "cover_type": "Property Cover",
+    "sum_insured_kes": 5000000,
+    "region": "Eldoret",
+    "join_date": "2021-02-02"
+  },
+  {
+    "policy_number": "AMI-00057",
+    "full_name": "Brian Kamau",
+    "age": 26,
+    "gender": "F",
+    "cover_type": "Property Cover",
+    "sum_insured_kes": 1200000,
+    "region": "Mombasa",
+    "join_date": "2020-06-18"
+  },
+  {
+    "policy_number": "AMI-00058",
+    "full_name": "Collins Odhiambo",
+    "age": 53,
+    "gender": "M",
+    "cover_type": "Health Cover",
+    "sum_insured_kes": 3500000,
+    "region": "Nakuru",
+    "join_date": "2022-01-09"
+  },
+  {
+    "policy_number": "AMI-00059",
+    "full_name": "Diana Kamau",
+    "age": 65,
+    "gender": "M",
+    "cover_type": "Motor Comprehensive",
+    "sum_insured_kes": 2000000,
+    "region": "Nairobi",
+    "join_date": "2021-11-09"
+  },
+  {
+    "policy_number": "AMI-00060",
+    "full_name": "Diana Mutiso",
+    "age": 61,
+    "gender": "F",
+    "cover_type": "Motor Third-Party",
+    "sum_insured_kes": 800000,
+    "region": "Mombasa",
+    "join_date": "2020-11-29"
+  },
+  {
+    "policy_number": "AMI-00061",
+    "full_name": "Brian Onyango",
+    "age": 22,
+    "gender": null,
+    "cover_type": "Property Cover",
+    "sum_insured_kes": 1200000,
+    "region": "Nyeri",
+    "join_date": "2023-06-02"
+  },
+  {
+    "policy_number": "AMI-00062",
+    "full_name": "Joseph Wekesa",
+    "age": 67,
+    "gender": "F",
+    "cover_type": "Property Cover",
+    "sum_insured_kes": 2000000,
+    "region": "Eldoret",
+    "join_date": "2023-10-22"
+  },
+  {
+    "policy_number": "AMI-00063",
+    "full_name": "Lucy Onyango",
+    "age": 48,
+    "gender": "M",
+    "cover_type": "Motor Third-Party",
+    "sum_insured_kes": 5000000,
+    "region": "Nakuru",
+    "join_date": "2023-12-06"
+  },
+  {
+    "policy_number": "AMI-00064",
+    "full_name": "Brian Kamau",
+    "age": 33,
+    "gender": "F",
+    "cover_type": "Health Cover",
+    "sum_insured_kes": 500000,
+    "region": "Nakuru",
+    "join_date": "2020-12-24"
+  },
+  {
+    "policy_number": "AMI-00065",
+    "full_name": "Diana Onyango",
+    "age": 26,
+    "gender": "M",
+    "cover_type": "Health Cover",
+    "sum_insured_kes": 5000000,
+    "region": "Kisumu",
+    "join_date": "2023-07-30"
+  },
+  {
+    "policy_number": "AMI-00066",
+    "full_name": "Lucy Mutiso",
+    "age": 20,
+    "gender": "F",
+    "cover_type": "Property Cover",
+    "sum_insured_kes": 3500000,
+    "region": "Nyeri",
+    "join_date": "2020-10-04"
+  },
+  {
+    "policy_number": "AMI-00067",
+    "full_name": "Ann Barasa",
+    "age": 42,
+    "gender": "M",
+    "cover_type": "Health Cover",
+    "sum_insured_kes": 1200000,
+    "region": "Kisumu",
+    "join_date": "2021-12-31"
+  },
+  {
+    "policy_number": "AMI-00068",
+    "full_name": "Brian Odhiambo",
+    "age": 35,
+    "gender": "M",
+    "cover_type": "Motor Comprehensive",
+    "sum_insured_kes": 3500000,
+    "region": "Nakuru",
+    "join_date": "2024-03-27"
+  },
+  {
+    "policy_number": "AMI-00069",
+    "full_name": "Joseph Wekesa",
+    "age": 71,
+    "gender": "M",
+    "cover_type": "Property Cover",
+    "sum_insured_kes": 500000,
+    "region": "Kisumu",
+    "join_date": "2020-06-05"
+  },
+  {
+    "policy_number": "AMI-00070",
+    "full_name": "Brian Njoroge",
+    "age": 22,
+    "gender": "M",
+    "cover_type": "Motor Comprehensive",
+    "sum_insured_kes": 3500000,
+    "region": "Kisumu",
+    "join_date": "2019-05-27"
+  },
+  {
+    "policy_number": "AMI-00071",
+    "full_name": "James Njoroge",
+    "age": 23,
+    "gender": "M",
+    "cover_type": "Property Cover",
+    "sum_insured_kes": 800000,
+    "region": "Mombasa",
+    "join_date": "2024-03-12"
+  },
+  {
+    "policy_number": "AMI-00072",
+    "full_name": "James Barasa",
+    "age": 71,
+    "gender": "M",
+    "cover_type": "Property Cover",
+    "sum_insured_kes": 3500000,
+    "region": "Nakuru",
+    "join_date": "2022-03-21"
+  },
+  {
+    "policy_number": "AMI-00073",
+    "full_name": "Peter Odhiambo",
+    "age": 20,
+    "gender": "F",
+    "cover_type": "Motor Third-Party",
+    "sum_insured_kes": 2000000,
+    "region": "Kisumu",
+    "join_date": "2020-01-15"
+  },
+  {
+    "policy_number": "AMI-00074",
+    "full_name": "Esther Onyango",
+    "age": 37,
+    "gender": "F",
+    "cover_type": "Motor Comprehensive",
+    "sum_insured_kes": 5000000,
+    "region": "Nakuru",
+    "join_date": "2019-09-28"
+  },
+  {
+    "policy_number": "AMI-00075",
+    "full_name": "Dennis Cherono",
+    "age": 56,
+    "gender": "F",
+    "cover_type": "Motor Comprehensive",
+    "sum_insured_kes": 500000,
+    "region": "Nakuru",
+    "join_date": "2023-09-30"
+  },
+  {
+    "policy_number": "AMI-00076",
+    "full_name": "Diana Njoroge",
+    "age": null,
+    "gender": "F",
+    "cover_type": "Motor Third-Party",
+    "sum_insured_kes": 3500000,
+    "region": "Nairobi",
+    "join_date": "2021-07-12"
+  },
+  {
+    "policy_number": "AMI-00077",
+    "full_name": "Peter Odhiambo",
+    "age": 33,
+    "gender": "F",
+    "cover_type": "Motor Comprehensive",
+    "sum_insured_kes": 2000000,
+    "region": "Nakuru",
+    "join_date": "2019-08-20"
+  },
+  {
+    "policy_number": "AMI-00078",
+    "full_name": "Samuel Onyango",
+    "age": 49,
+    "gender": "M",
+    "cover_type": "Property Cover",
+    "sum_insured_kes": 5000000,
+    "region": "Mombasa",
+    "join_date": "2020-10-25"
+  },
+  {
+    "policy_number": "AMI-00079",
+    "full_name": "Joseph Kamau",
+    "age": 25,
+    "gender": "F",
+    "cover_type": "Property Cover",
+    "sum_insured_kes": 3500000,
+    "region": "Eldoret",
+    "join_date": "2019-08-04"
+  },
+  {
+    "policy_number": "AMI-00080",
+    "full_name": "Kevin Wafula",
+    "age": 42,
+    "gender": "F",
+    "cover_type": "Property Cover",
+    "sum_insured_kes": 2000000,
+    "region": "Eldoret",
+    "join_date": "2021-02-12"
+  },
+  {
+    "policy_number": "AMI-00081",
+    "full_name": "Dennis Wekesa",
+    "age": 50,
+    "gender": "M",
+    "cover_type": "Health Cover",
+    "sum_insured_kes": 3500000,
+    "region": "Nairobi",
+    "join_date": "2024-01-10"
+  },
+  {
+    "policy_number": "AMI-00082",
+    "full_name": "Mercy Njoroge",
+    "age": 57,
+    "gender": "F",
+    "cover_type": "Motor Third-Party",
+    "sum_insured_kes": 2000000,
+    "region": "Nyeri",
+    "join_date": "2023-08-02"
+  },
+  {
+    "policy_number": "AMI-00083",
+    "full_name": "Joseph Barasa",
+    "age": 46,
+    "gender": "F",
+    "cover_type": "Motor Third-Party",
+    "sum_insured_kes": 800000,
+    "region": "Kisumu",
+    "join_date": "2023-09-05"
+  },
+  {
+    "policy_number": "AMI-00084",
+    "full_name": "Samuel Odhiambo",
+    "age": 26,
+    "gender": "M",
+    "cover_type": "Property Cover",
+    "sum_insured_kes": 500000,
+    "region": "Eldoret",
+    "join_date": "2019-05-27"
+  },
+  {
+    "policy_number": "AMI-00085",
+    "full_name": "Faith Barasa",
+    "age": 20,
+    "gender": "F",
+    "cover_type": "Motor Third-Party",
+    "sum_insured_kes": 1200000,
+    "region": "Eldoret",
+    "join_date": "2020-10-28"
+  },
+  {
+    "policy_number": "AMI-00086",
+    "full_name": "Peter Njoroge",
+    "age": 31,
+    "gender": "M",
+    "cover_type": "Motor Third-Party",
+    "sum_insured_kes": 500000,
+    "region": "Mombasa",
+    "join_date": "2024-05-11"
+  },
+  {
+    "policy_number": "AMI-00087",
+    "full_name": "Samuel Barasa",
+    "age": 61,
+    "gender": "F",
+    "cover_type": "Motor Comprehensive",
+    "sum_insured_kes": 2000000,
+    "region": "Nakuru",
+    "join_date": "2023-09-08"
+  },
+  {
+    "policy_number": "AMI-00088",
+    "full_name": "Esther Kamau",
+    "age": 72,
+    "gender": "M",
+    "cover_type": "Motor Third-Party",
+    "sum_insured_kes": 3500000,
+    "region": "Nairobi",
+    "join_date": "2019-11-19"
+  },
+  {
+    "policy_number": "AMI-00089",
+    "full_name": "Collins Njoroge",
+    "age": 68,
+    "gender": "M",
+    "cover_type": "Motor Comprehensive",
+    "sum_insured_kes": 1200000,
+    "region": "Kisumu",
+    "join_date": "2023-12-31"
+  },
+  {
+    "policy_number": "AMI-00090",
+    "full_name": "Diana Kariuki",
+    "age": 23,
+    "gender": "F",
+    "cover_type": "Property Cover",
+    "sum_insured_kes": 500000,
+    "region": "Nyeri",
+    "join_date": "2021-09-09"
+  },
+  {
+    "policy_number": "AMI-00091",
+    "full_name": "Kevin Odhiambo",
+    "age": 43,
+    "gender": "F",
+    "cover_type": "Property Cover",
+    "sum_insured_kes": 800000,
+    "region": "Nairobi",
+    "join_date": "2022-11-06"
+  },
+  {
+    "policy_number": "AMI-00092",
+    "full_name": "Samuel Wekesa",
+    "age": null,
+    "gender": "M",
+    "cover_type": "Motor Third-Party",
+    "sum_insured_kes": 3500000,
+    "region": "Nyeri",
+    "join_date": "2024-03-13"
+  },
+  {
+    "policy_number": "AMI-00093",
+    "full_name": "Brian Odhiambo",
+    "age": 33,
+    "gender": "M",
+    "cover_type": "Health Cover",
+    "sum_insured_kes": 2000000,
+    "region": "Nairobi",
+    "join_date": "2020-12-09"
+  },
+  {
+    "policy_number": "AMI-00094",
+    "full_name": "Esther Mutiso",
+    "age": 71,
+    "gender": "M",
+    "cover_type": "Motor Comprehensive",
+    "sum_insured_kes": 800000,
+    "region": "Kisumu",
+    "join_date": "2021-04-26"
+  },
+  {
+    "policy_number": "AMI-00095",
+    "full_name": "Peter Kamau",
+    "age": 33,
+    "gender": "M",
+    "cover_type": "Property Cover",
+    "sum_insured_kes": 3500000,
+    "region": "Mombasa",
+    "join_date": "2021-04-15"
+  },
+  {
+    "policy_number": "AMI-00096",
+    "full_name": "Joseph Odhiambo",
+    "age": 25,
+    "gender": "F",
+    "cover_type": "Property Cover",
+    "sum_insured_kes": 500000,
+    "region": "Nyeri",
+    "join_date": "2019-06-29"
+  },
+  {
+    "policy_number": "AMI-00097",
+    "full_name": "Faith Wafula",
+    "age": null,
+    "gender": "F",
+    "cover_type": "Property Cover",
+    "sum_insured_kes": 2000000,
+    "region": "Mombasa",
+    "join_date": "2020-07-04"
+  },
+  {
+    "policy_number": "AMI-00098",
+    "full_name": "Diana Mutiso",
+    "age": 40,
+    "gender": "F",
+    "cover_type": "Property Cover",
+    "sum_insured_kes": 1200000,
+    "region": "Nakuru",
+    "join_date": "2021-08-13"
+  },
+  {
+    "policy_number": "AMI-00099",
+    "full_name": "Faith Cherono",
+    "age": 33,
+    "gender": "M",
+    "cover_type": "Motor Comprehensive",
+    "sum_insured_kes": 5000000,
+    "region": "Nakuru",
+    "join_date": "2023-06-11"
+  },
+  {
+    "policy_number": "AMI-00100",
+    "full_name": "Dennis Odhiambo",
+    "age": 33,
+    "gender": "F",
+    "cover_type": "Motor Comprehensive",
+    "sum_insured_kes": 800000,
+    "region": "Eldoret",
+    "join_date": "2019-11-25"
+  },
+  {
+    "policy_number": "AMI-00101",
+    "full_name": "Brian Barasa",
+    "age": 43,
+    "gender": "M",
+    "cover_type": "Motor Comprehensive",
+    "sum_insured_kes": 1200000,
+    "region": "Nyeri",
+    "join_date": "2020-05-14"
+  },
+  {
+    "policy_number": "AMI-00102",
+    "full_name": "Samuel Mutiso",
+    "age": 42,
+    "gender": "F",
+    "cover_type": "Motor Comprehensive",
+    "sum_insured_kes": 3500000,
+    "region": "Kisumu",
+    "join_date": "2023-02-20"
+  },
+  {
+    "policy_number": "AMI-00103",
+    "full_name": "Winnie Kariuki",
+    "age": 24,
+    "gender": "M",
+    "cover_type": "Motor Third-Party",
+    "sum_insured_kes": 2000000,
+    "region": "Mombasa",
+    "join_date": "2019-09-08"
+  },
+  {
+    "policy_number": "AMI-00104",
+    "full_name": "Collins Barasa",
+    "age": 19,
+    "gender": "F",
+    "cover_type": "Property Cover",
+    "sum_insured_kes": 3500000,
+    "region": "Nairobi",
+    "join_date": "2022-09-09"
+  },
+  {
+    "policy_number": "AMI-00105",
+    "full_name": "Brian Wafula",
+    "age": 38,
+    "gender": "F",
+    "cover_type": "Motor Third-Party",
+    "sum_insured_kes": 2000000,
+    "region": "Kisumu",
+    "join_date": "2019-08-26"
+  },
+  {
+    "policy_number": "AMI-00106",
+    "full_name": "Peter Wekesa",
+    "age": 71,
+    "gender": "M",
+    "cover_type": "Health Cover",
+    "sum_insured_kes": 800000,
+    "region": "Kisumu",
+    "join_date": "2021-04-09"
+  },
+  {
+    "policy_number": "AMI-00107",
+    "full_name": "Grace Onyango",
+    "age": 43,
+    "gender": "M",
+    "cover_type": "Motor Third-Party",
+    "sum_insured_kes": 800000,
+    "region": "Mombasa",
+    "join_date": "2023-11-05"
+  },
+  {
+    "policy_number": "AMI-00108",
+    "full_name": "James Mutiso",
+    "age": 59,
+    "gender": "F",
+    "cover_type": "Property Cover",
+    "sum_insured_kes": 3500000,
+    "region": "Mombasa",
+    "join_date": "2020-02-28"
+  },
+  {
+    "policy_number": "AMI-00109",
+    "full_name": "Ann Mutiso",
+    "age": 23,
+    "gender": "M",
+    "cover_type": "Motor Comprehensive",
+    "sum_insured_kes": 800000,
+    "region": "Nairobi",
+    "join_date": "2022-04-26"
+  },
+  {
+    "policy_number": "AMI-00110",
+    "full_name": "Brian Kariuki",
+    "age": 55,
+    "gender": "F",
+    "cover_type": "Motor Comprehensive",
+    "sum_insured_kes": 1200000,
+    "region": "Mombasa",
+    "join_date": "2024-03-30"
+  },
+  {
+    "policy_number": "AMI-00111",
+    "full_name": "Esther Barasa",
+    "age": 42,
+    "gender": "M",
+    "cover_type": "Property Cover",
+    "sum_insured_kes": 3500000,
+    "region": "Nakuru",
+    "join_date": "2023-09-16"
+  },
+  {
+    "policy_number": "AMI-00112",
+    "full_name": "Mercy Barasa",
+    "age": 70,
+    "gender": "F",
+    "cover_type": "Health Cover",
+    "sum_insured_kes": 800000,
+    "region": "Mombasa",
+    "join_date": "2019-12-03"
+  },
+  {
+    "policy_number": "AMI-00113",
+    "full_name": "Joseph Kamau",
+    "age": 46,
+    "gender": "F",
+    "cover_type": "Motor Comprehensive",
+    "sum_insured_kes": 2000000,
+    "region": "Eldoret",
+    "join_date": "2021-04-25"
+  },
+  {
+    "policy_number": "AMI-00114",
+    "full_name": "James Cherono",
+    "age": 46,
+    "gender": "M",
+    "cover_type": "Property Cover",
+    "sum_insured_kes": 5000000,
+    "region": "Nairobi",
+    "join_date": "2021-07-04"
+  },
+  {
+    "policy_number": "AMI-00115",
+    "full_name": "Winnie Njoroge",
+    "age": 60,
+    "gender": "M",
+    "cover_type": "Health Cover",
+    "sum_insured_kes": 500000,
+    "region": "Eldoret",
+    "join_date": "2021-09-18"
+  },
+  {
+    "policy_number": "AMI-00116",
+    "full_name": "Kevin Odhiambo",
+    "age": 47,
+    "gender": "M",
+    "cover_type": "Property Cover",
+    "sum_insured_kes": 3500000,
+    "region": "Kisumu",
+    "join_date": "2021-12-21"
+  },
+  {
+    "policy_number": "AMI-00117",
+    "full_name": "Samuel Onyango",
+    "age": 48,
+    "gender": null,
+    "cover_type": "Motor Comprehensive",
+    "sum_insured_kes": 1200000,
+    "region": "Kisumu",
+    "join_date": "2019-11-04"
+  },
+  {
+    "policy_number": "AMI-00118",
+    "full_name": "Diana Njoroge",
+    "age": 45,
+    "gender": "F",
+    "cover_type": "Motor Third-Party",
+    "sum_insured_kes": 800000,
+    "region": "Mombasa",
+    "join_date": "2024-01-29"
+  },
+  {
+    "policy_number": "AMI-00119",
+    "full_name": "Diana Wafula",
+    "age": 43,
+    "gender": "M",
+    "cover_type": "Motor Comprehensive",
+    "sum_insured_kes": 5000000,
+    "region": "Nakuru",
+    "join_date": "2022-05-02"
+  },
+  {
+    "policy_number": "AMI-00120",
+    "full_name": "Ann Njoroge",
+    "age": 65,
+    "gender": "F",
+    "cover_type": "Health Cover",
+    "sum_insured_kes": 1200000,
+    "region": "Eldoret",
+    "join_date": "2022-08-09"
+  },
+  {
+    "policy_number": "AMI-00121",
+    "full_name": "Winnie Cherono",
+    "age": 51,
+    "gender": "M",
+    "cover_type": "Motor Third-Party",
+    "sum_insured_kes": 800000,
+    "region": "Eldoret",
+    "join_date": "2020-07-08"
+  },
+  {
+    "policy_number": "AMI-00122",
+    "full_name": "Mercy Kamau",
+    "age": 54,
+    "gender": "F",
+    "cover_type": "Property Cover",
+    "sum_insured_kes": 500000,
+    "region": "Eldoret",
+    "join_date": "2021-11-01"
+  },
+  {
+    "policy_number": "AMI-00123",
+    "full_name": "James Odhiambo",
+    "age": 25,
+    "gender": "F",
+    "cover_type": "Property Cover",
+    "sum_insured_kes": 500000,
+    "region": "Eldoret",
+    "join_date": "2021-01-24"
+  },
+  {
+    "policy_number": "AMI-00124",
+    "full_name": "James Mutiso",
+    "age": 27,
+    "gender": "F",
+    "cover_type": "Motor Third-Party",
+    "sum_insured_kes": 3500000,
+    "region": "Eldoret",
+    "join_date": "2023-11-03"
+  },
+  {
+    "policy_number": "AMI-00125",
+    "full_name": "Dennis Wafula",
+    "age": 48,
+    "gender": null,
+    "cover_type": "Property Cover",
+    "sum_insured_kes": 1200000,
+    "region": "Nyeri",
+    "join_date": "2024-03-02"
+  },
+  {
+    "policy_number": "AMI-00126",
+    "full_name": "Ann Barasa",
+    "age": 37,
+    "gender": "M",
+    "cover_type": "Motor Comprehensive",
+    "sum_insured_kes": 1200000,
+    "region": "Nyeri",
+    "join_date": "2019-12-04"
+  },
+  {
+    "policy_number": "AMI-00127",
+    "full_name": "Ann Mutiso",
+    "age": 56,
+    "gender": "F",
+    "cover_type": "Property Cover",
+    "sum_insured_kes": 500000,
+    "region": "Mombasa",
+    "join_date": "2020-03-05"
+  },
+  {
+    "policy_number": "AMI-00128",
+    "full_name": "Diana Cherono",
+    "age": 22,
+    "gender": "M",
+    "cover_type": "Motor Comprehensive",
+    "sum_insured_kes": 800000,
+    "region": "Eldoret",
+    "join_date": "2020-06-04"
+  },
+  {
+    "policy_number": "AMI-00129",
+    "full_name": "Collins Mutiso",
+    "age": 66,
+    "gender": "F",
+    "cover_type": "Motor Third-Party",
+    "sum_insured_kes": 800000,
+    "region": "Nakuru",
+    "join_date": "2024-06-17"
+  },
+  {
+    "policy_number": "AMI-00130",
+    "full_name": "Peter Kamau",
+    "age": 39,
+    "gender": "M",
+    "cover_type": "Motor Third-Party",
+    "sum_insured_kes": 800000,
+    "region": "Mombasa",
+    "join_date": "2020-07-26"
+  },
+  {
+    "policy_number": "AMI-00131",
+    "full_name": "Joseph Kariuki",
+    "age": 49,
+    "gender": "F",
+    "cover_type": "Property Cover",
+    "sum_insured_kes": 800000,
+    "region": "Mombasa",
+    "join_date": "2023-02-25"
+  },
+  {
+    "policy_number": "AMI-00132",
+    "full_name": "Grace Wafula",
+    "age": 39,
+    "gender": "F",
+    "cover_type": "Property Cover",
+    "sum_insured_kes": 3500000,
+    "region": "Kisumu",
+    "join_date": "2019-07-20"
+  },
+  {
+    "policy_number": "AMI-00133",
+    "full_name": "Faith Barasa",
+    "age": 51,
+    "gender": "M",
+    "cover_type": "Health Cover",
+    "sum_insured_kes": 500000,
+    "region": "Kisumu",
+    "join_date": "2022-11-16"
+  },
+  {
+    "policy_number": "AMI-00134",
+    "full_name": "Kevin Odhiambo",
+    "age": 40,
+    "gender": "M",
+    "cover_type": "Motor Comprehensive",
+    "sum_insured_kes": 1200000,
+    "region": "Kisumu",
+    "join_date": "2019-09-12"
+  },
+  {
+    "policy_number": "AMI-00135",
+    "full_name": "Winnie Wafula",
+    "age": 26,
+    "gender": "F",
+    "cover_type": "Motor Comprehensive",
+    "sum_insured_kes": 3500000,
+    "region": "Mombasa",
+    "join_date": "2022-07-02"
+  },
+  {
+    "policy_number": "AMI-00136",
+    "full_name": "Brian Kariuki",
+    "age": 30,
+    "gender": "M",
+    "cover_type": "Motor Third-Party",
+    "sum_insured_kes": 500000,
+    "region": "Nairobi",
+    "join_date": "2023-06-12"
+  },
+  {
+    "policy_number": "AMI-00137",
+    "full_name": "Samuel Wafula",
+    "age": 57,
+    "gender": "F",
+    "cover_type": "Motor Third-Party",
+    "sum_insured_kes": 3500000,
+    "region": "Eldoret",
+    "join_date": "2023-04-29"
+  },
+  {
+    "policy_number": "AMI-00138",
+    "full_name": "Faith Odhiambo",
+    "age": 30,
+    "gender": "F",
+    "cover_type": "Motor Comprehensive",
+    "sum_insured_kes": 1200000,
+    "region": "Kisumu",
+    "join_date": "2023-02-08"
+  },
+  {
+    "policy_number": "AMI-00139",
+    "full_name": "Joseph Barasa",
+    "age": 49,
+    "gender": "F",
+    "cover_type": "Motor Comprehensive",
+    "sum_insured_kes": 3500000,
+    "region": "Eldoret",
+    "join_date": "2023-10-18"
+  },
+  {
+    "policy_number": "AMI-00140",
+    "full_name": "Faith Njoroge",
+    "age": 48,
+    "gender": "M",
+    "cover_type": "Motor Third-Party",
+    "sum_insured_kes": 500000,
+    "region": "Nakuru",
+    "join_date": "2023-09-18"
+  },
+  {
+    "policy_number": "AMI-00141",
+    "full_name": "Samuel Wekesa",
+    "age": 64,
+    "gender": "M",
+    "cover_type": "Health Cover",
+    "sum_insured_kes": 3500000,
+    "region": "Nakuru",
+    "join_date": "2021-10-17"
+  },
+  {
+    "policy_number": "AMI-00142",
+    "full_name": "Collins Odhiambo",
+    "age": 35,
+    "gender": "F",
+    "cover_type": "Motor Third-Party",
+    "sum_insured_kes": 2000000,
+    "region": "Eldoret",
+    "join_date": "2020-05-05"
+  },
+  {
+    "policy_number": "AMI-00143",
+    "full_name": "Diana Njoroge",
+    "age": 72,
+    "gender": "M",
+    "cover_type": "Motor Third-Party",
+    "sum_insured_kes": 1200000,
+    "region": "Nairobi",
+    "join_date": "2022-04-16"
+  },
+  {
+    "policy_number": "AMI-00144",
+    "full_name": "Brian Kariuki",
+    "age": 62,
+    "gender": "M",
+    "cover_type": "Health Cover",
+    "sum_insured_kes": 5000000,
+    "region": "Kisumu",
+    "join_date": "2019-11-25"
+  },
+  {
+    "policy_number": "AMI-00145",
+    "full_name": "Joseph Njoroge",
+    "age": 24,
+    "gender": "F",
+    "cover_type": "Motor Comprehensive",
+    "sum_insured_kes": 800000,
+    "region": "Nakuru",
+    "join_date": "2020-06-09"
+  },
+  {
+    "policy_number": "AMI-00146",
+    "full_name": "Faith Cherono",
+    "age": 55,
+    "gender": "M",
+    "cover_type": "Property Cover",
+    "sum_insured_kes": 2000000,
+    "region": "Nairobi",
+    "join_date": "2021-11-25"
+  },
+  {
+    "policy_number": "AMI-00147",
+    "full_name": "Diana Cherono",
+    "age": null,
+    "gender": "M",
+    "cover_type": "Property Cover",
+    "sum_insured_kes": 500000,
+    "region": "Kisumu",
+    "join_date": "2020-12-25"
+  },
+  {
+    "policy_number": "AMI-00148",
+    "full_name": "Peter Odhiambo",
+    "age": 51,
+    "gender": "M",
+    "cover_type": "Motor Third-Party",
+    "sum_insured_kes": 800000,
+    "region": "Nairobi",
+    "join_date": "2021-03-12"
+  },
+  {
+    "policy_number": "AMI-00149",
+    "full_name": "Brian Njoroge",
+    "age": 57,
+    "gender": "F",
+    "cover_type": "Motor Comprehensive",
+    "sum_insured_kes": 2000000,
+    "region": "Eldoret",
+    "join_date": "2021-12-01"
+  },
+  {
+    "policy_number": "AMI-00150",
+    "full_name": "Brian Wekesa",
+    "age": 41,
+    "gender": "F",
+    "cover_type": "Motor Third-Party",
+    "sum_insured_kes": 800000,
+    "region": "Nyeri",
+    "join_date": "2023-09-16"
+  },
+  {
+    "policy_number": "AMI-00151",
+    "full_name": "Kevin Cherono",
+    "age": 70,
+    "gender": "F",
+    "cover_type": "Motor Third-Party",
+    "sum_insured_kes": 3500000,
+    "region": "Nyeri",
+    "join_date": "2021-01-05"
+  },
+  {
+    "policy_number": "AMI-00152",
+    "full_name": "Brian Odhiambo",
+    "age": 54,
+    "gender": "M",
+    "cover_type": "Motor Comprehensive",
+    "sum_insured_kes": 3500000,
+    "region": "Nakuru",
+    "join_date": "2020-11-02"
+  },
+  {
+    "policy_number": "AMI-00153",
+    "full_name": "Mercy Njoroge",
+    "age": 48,
+    "gender": "F",
+    "cover_type": "Motor Third-Party",
+    "sum_insured_kes": 500000,
+    "region": "Nairobi",
+    "join_date": "2023-05-30"
+  },
+  {
+    "policy_number": "AMI-00154",
+    "full_name": "Joseph Njoroge",
+    "age": 24,
+    "gender": "F",
+    "cover_type": "Motor Third-Party",
+    "sum_insured_kes": 2000000,
+    "region": "Nakuru",
+    "join_date": "2020-10-30"
+  },
+  {
+    "policy_number": "AMI-00155",
+    "full_name": "James Cherono",
+    "age": 48,
+    "gender": "M",
+    "cover_type": "Health Cover",
+    "sum_insured_kes": 5000000,
+    "region": "Nakuru",
+    "join_date": "2020-04-12"
+  },
+  {
+    "policy_number": "AMI-00156",
+    "full_name": "Mercy Mutiso",
+    "age": 42,
+    "gender": "F",
+    "cover_type": "Health Cover",
+    "sum_insured_kes": 2000000,
+    "region": "Nairobi",
+    "join_date": "2020-07-01"
+  },
+  {
+    "policy_number": "AMI-00157",
+    "full_name": "Lucy Odhiambo",
+    "age": 50,
+    "gender": "M",
+    "cover_type": "Motor Comprehensive",
+    "sum_insured_kes": 5000000,
+    "region": "Nakuru",
+    "join_date": "2021-05-27"
+  },
+  {
+    "policy_number": "AMI-00158",
+    "full_name": "Winnie Wafula",
+    "age": 30,
+    "gender": "M",
+    "cover_type": "Motor Third-Party",
+    "sum_insured_kes": 5000000,
+    "region": "Kisumu",
+    "join_date": "2020-08-22"
+  },
+  {
+    "policy_number": "AMI-00159",
+    "full_name": "Grace Wekesa",
+    "age": 72,
+    "gender": "M",
+    "cover_type": "Motor Third-Party",
+    "sum_insured_kes": 2000000,
+    "region": "Nakuru",
+    "join_date": "2022-09-05"
+  },
+  {
+    "policy_number": "AMI-00160",
+    "full_name": "Brian Njoroge",
+    "age": 35,
+    "gender": "F",
+    "cover_type": "Health Cover",
+    "sum_insured_kes": 800000,
+    "region": "Eldoret",
+    "join_date": "2023-10-18"
+  },
+  {
+    "policy_number": "AMI-00161",
+    "full_name": "Ann Cherono",
+    "age": 26,
+    "gender": "M",
+    "cover_type": "Health Cover",
+    "sum_insured_kes": 3500000,
+    "region": "Mombasa",
+    "join_date": "2020-06-05"
+  },
+  {
+    "policy_number": "AMI-00162",
+    "full_name": "Brian Onyango",
+    "age": 54,
+    "gender": "M",
+    "cover_type": "Property Cover",
+    "sum_insured_kes": 2000000,
+    "region": "Nakuru",
+    "join_date": "2021-11-11"
+  },
+  {
+    "policy_number": "AMI-00163",
+    "full_name": "Collins Odhiambo",
+    "age": 23,
+    "gender": "F",
+    "cover_type": "Property Cover",
+    "sum_insured_kes": 5000000,
+    "region": "Kisumu",
+    "join_date": "2023-09-19"
+  },
+  {
+    "policy_number": "AMI-00164",
+    "full_name": "Ann Kariuki",
+    "age": 58,
+    "gender": "M",
+    "cover_type": "Health Cover",
+    "sum_insured_kes": 3500000,
+    "region": "Nakuru",
+    "join_date": "2020-02-20"
+  },
+  {
+    "policy_number": "AMI-00165",
+    "full_name": "Grace Odhiambo",
+    "age": 23,
+    "gender": "F",
+    "cover_type": "Property Cover",
+    "sum_insured_kes": 800000,
+    "region": "Kisumu",
+    "join_date": "2024-05-08"
+  },
+  {
+    "policy_number": "AMI-00166",
+    "full_name": "James Kariuki",
+    "age": 57,
+    "gender": "F",
+    "cover_type": "Motor Third-Party",
+    "sum_insured_kes": 2000000,
+    "region": "Eldoret",
+    "join_date": "2020-09-27"
+  },
+  {
+    "policy_number": "AMI-00167",
+    "full_name": "Diana Barasa",
+    "age": 42,
+    "gender": "M",
+    "cover_type": "Motor Third-Party",
+    "sum_insured_kes": 500000,
+    "region": "Nakuru",
+    "join_date": "2022-08-19"
+  },
+  {
+    "policy_number": "AMI-00168",
+    "full_name": "Kevin Kamau",
+    "age": 65,
+    "gender": "M",
+    "cover_type": "Motor Comprehensive",
+    "sum_insured_kes": 800000,
+    "region": "Nakuru",
+    "join_date": "2022-07-24"
+  },
+  {
+    "policy_number": "AMI-00169",
+    "full_name": "Peter Kariuki",
+    "age": 51,
+    "gender": "F",
+    "cover_type": "Motor Third-Party",
+    "sum_insured_kes": 1200000,
+    "region": "Mombasa",
+    "join_date": "2024-04-24"
+  },
+  {
+    "policy_number": "AMI-00170",
+    "full_name": "Diana Wafula",
+    "age": 71,
+    "gender": "F",
+    "cover_type": "Health Cover",
+    "sum_insured_kes": 500000,
+    "region": "Kisumu",
+    "join_date": "2021-09-12"
+  },
+  {
+    "policy_number": "AMI-00171",
+    "full_name": "Peter Cherono",
+    "age": 53,
+    "gender": "F",
+    "cover_type": "Property Cover",
+    "sum_insured_kes": 1200000,
+    "region": "Nyeri",
+    "join_date": "2019-06-08"
+  },
+  {
+    "policy_number": "AMI-00172",
+    "full_name": "Mercy Njoroge",
+    "age": 42,
+    "gender": "F",
+    "cover_type": "Property Cover",
+    "sum_insured_kes": 3500000,
+    "region": "Eldoret",
+    "join_date": "2023-08-05"
+  },
+  {
+    "policy_number": "AMI-00173",
+    "full_name": "James Barasa",
+    "age": 28,
+    "gender": "F",
+    "cover_type": "Property Cover",
+    "sum_insured_kes": 2000000,
+    "region": "Nairobi",
+    "join_date": "2019-05-01"
+  },
+  {
+    "policy_number": "AMI-00174",
+    "full_name": "Esther Mutiso",
+    "age": 64,
+    "gender": "F",
+    "cover_type": "Health Cover",
+    "sum_insured_kes": 3500000,
+    "region": "Eldoret",
+    "join_date": "2019-08-11"
+  },
+  {
+    "policy_number": "AMI-00175",
+    "full_name": "Collins Onyango",
+    "age": 39,
+    "gender": "M",
+    "cover_type": "Motor Comprehensive",
+    "sum_insured_kes": 3500000,
+    "region": "Mombasa",
+    "join_date": "2022-12-12"
+  },
+  {
+    "policy_number": "AMI-00176",
+    "full_name": "Dennis Barasa",
+    "age": 31,
+    "gender": "F",
+    "cover_type": "Health Cover",
+    "sum_insured_kes": 5000000,
+    "region": "Kisumu",
+    "join_date": "2020-01-07"
+  },
+  {
+    "policy_number": "AMI-00177",
+    "full_name": "Lucy Onyango",
+    "age": 53,
+    "gender": "M",
+    "cover_type": "Property Cover",
+    "sum_insured_kes": 2000000,
+    "region": "Nyeri",
+    "join_date": "2022-12-21"
+  },
+  {
+    "policy_number": "AMI-00178",
+    "full_name": "Samuel Cherono",
+    "age": 56,
+    "gender": "M",
+    "cover_type": "Property Cover",
+    "sum_insured_kes": 500000,
+    "region": "Kisumu",
+    "join_date": "2019-08-18"
+  },
+  {
+    "policy_number": "AMI-00179",
+    "full_name": "Winnie Mutiso",
+    "age": 58,
+    "gender": "M",
+    "cover_type": "Motor Third-Party",
+    "sum_insured_kes": 800000,
+    "region": "Mombasa",
+    "join_date": "2023-09-05"
+  },
+  {
+    "policy_number": "AMI-00180",
+    "full_name": "Mercy Kamau",
+    "age": 62,
+    "gender": "M",
+    "cover_type": "Motor Comprehensive",
+    "sum_insured_kes": 500000,
+    "region": "Nyeri",
+    "join_date": "2021-10-07"
+  },
+  {
+    "policy_number": "AMI-00181",
+    "full_name": "Esther Wekesa",
+    "age": 53,
+    "gender": "F",
+    "cover_type": "Health Cover",
+    "sum_insured_kes": 2000000,
+    "region": "Kisumu",
+    "join_date": "2019-08-28"
+  },
+  {
+    "policy_number": "AMI-00182",
+    "full_name": "Kevin Odhiambo",
+    "age": 23,
+    "gender": "M",
+    "cover_type": "Health Cover",
+    "sum_insured_kes": 1200000,
+    "region": "Nakuru",
+    "join_date": "2020-05-31"
+  },
+  {
+    "policy_number": "AMI-00183",
+    "full_name": "Brian Wafula",
+    "age": 23,
+    "gender": "F",
+    "cover_type": "Health Cover",
+    "sum_insured_kes": 2000000,
+    "region": "Mombasa",
+    "join_date": "2023-09-13"
+  },
+  {
+    "policy_number": "AMI-00184",
+    "full_name": "Esther Kariuki",
+    "age": 31,
+    "gender": "M",
+    "cover_type": "Health Cover",
+    "sum_insured_kes": 3500000,
+    "region": "Kisumu",
+    "join_date": "2021-06-12"
+  },
+  {
+    "policy_number": "AMI-00185",
+    "full_name": "Dennis Onyango",
+    "age": 61,
+    "gender": "M",
+    "cover_type": "Motor Third-Party",
+    "sum_insured_kes": 500000,
+    "region": "Kisumu",
+    "join_date": "2023-11-18"
+  },
+  {
+    "policy_number": "AMI-00186",
+    "full_name": "Esther Wekesa",
+    "age": 68,
+    "gender": "M",
+    "cover_type": "Motor Comprehensive",
+    "sum_insured_kes": 500000,
+    "region": "Mombasa",
+    "join_date": "2023-09-04"
+  },
+  {
+    "policy_number": "AMI-00187",
+    "full_name": "Dennis Barasa",
+    "age": 22,
+    "gender": "M",
+    "cover_type": "Motor Third-Party",
+    "sum_insured_kes": 2000000,
+    "region": "Mombasa",
+    "join_date": "2021-11-15"
+  },
+  {
+    "policy_number": "AMI-00188",
+    "full_name": "Lucy Wafula",
+    "age": 33,
+    "gender": "F",
+    "cover_type": "Motor Comprehensive",
+    "sum_insured_kes": 3500000,
+    "region": "Nairobi",
+    "join_date": "2022-12-21"
+  },
+  {
+    "policy_number": "AMI-00189",
+    "full_name": "Winnie Njoroge",
+    "age": 49,
+    "gender": "M",
+    "cover_type": "Motor Comprehensive",
+    "sum_insured_kes": 2000000,
+    "region": "Nyeri",
+    "join_date": "2021-11-01"
+  },
+  {
+    "policy_number": "AMI-00190",
+    "full_name": "Faith Onyango",
+    "age": 56,
+    "gender": "F",
+    "cover_type": "Health Cover",
+    "sum_insured_kes": 800000,
+    "region": "Nyeri",
+    "join_date": "2023-09-19"
+  },
+  {
+    "policy_number": "AMI-00191",
+    "full_name": "Joseph Wekesa",
+    "age": 61,
+    "gender": "F",
+    "cover_type": "Motor Third-Party",
+    "sum_insured_kes": 5000000,
+    "region": "Mombasa",
+    "join_date": "2022-03-03"
+  },
+  {
+    "policy_number": "AMI-00192",
+    "full_name": "Brian Onyango",
+    "age": null,
+    "gender": "F",
+    "cover_type": "Property Cover",
+    "sum_insured_kes": 3500000,
+    "region": "Mombasa",
+    "join_date": "2019-01-27"
+  },
+  {
+    "policy_number": "AMI-00193",
+    "full_name": "Esther Kamau",
+    "age": 21,
+    "gender": "M",
+    "cover_type": "Motor Comprehensive",
+    "sum_insured_kes": 800000,
+    "region": "Nairobi",
+    "join_date": "2021-04-11"
+  },
+  {
+    "policy_number": "AMI-00194",
+    "full_name": "Kevin Wekesa",
+    "age": 33,
+    "gender": "M",
+    "cover_type": "Motor Third-Party",
+    "sum_insured_kes": 2000000,
+    "region": "Nyeri",
+    "join_date": "2021-09-13"
+  },
+  {
+    "policy_number": "AMI-00195",
+    "full_name": "Kevin Onyango",
+    "age": 37,
+    "gender": "F",
+    "cover_type": "Property Cover",
+    "sum_insured_kes": 1200000,
+    "region": "Nakuru",
+    "join_date": "2023-08-18"
+  },
+  {
+    "policy_number": "AMI-00196",
+    "full_name": "Ann Cherono",
+    "age": 22,
+    "gender": "F",
+    "cover_type": "Health Cover",
+    "sum_insured_kes": 3500000,
+    "region": "Nairobi",
+    "join_date": "2022-10-22"
+  },
+  {
+    "policy_number": "AMI-00197",
+    "full_name": "Winnie Wekesa",
+    "age": 48,
+    "gender": "M",
+    "cover_type": "Property Cover",
+    "sum_insured_kes": 5000000,
+    "region": "Nakuru",
+    "join_date": "2022-06-26"
+  },
+  {
+    "policy_number": "AMI-00198",
+    "full_name": "Peter Kariuki",
+    "age": 34,
+    "gender": "F",
+    "cover_type": "Motor Third-Party",
+    "sum_insured_kes": 500000,
+    "region": "Nairobi",
+    "join_date": "2023-12-12"
+  },
+  {
+    "policy_number": "AMI-00199",
+    "full_name": "Ann Odhiambo",
+    "age": 67,
+    "gender": "M",
+    "cover_type": "Motor Comprehensive",
+    "sum_insured_kes": 3500000,
+    "region": "Kisumu",
+    "join_date": "2024-04-26"
+  },
+  {
+    "policy_number": "AMI-00200",
+    "full_name": "Grace Barasa",
+    "age": 30,
+    "gender": "F",
+    "cover_type": "Property Cover",
+    "sum_insured_kes": 5000000,
+    "region": "Nairobi",
+    "join_date": "2022-01-17"
+  },
+  {
+    "policy_number": "AMI-00201",
+    "full_name": "Winnie Njoroge",
+    "age": 58,
+    "gender": "F",
+    "cover_type": "Health Cover",
+    "sum_insured_kes": 5000000,
+    "region": "Eldoret",
+    "join_date": "2023-07-12"
+  },
+  {
+    "policy_number": "AMI-00202",
+    "full_name": "Peter Kamau",
+    "age": 49,
+    "gender": "M",
+    "cover_type": "Motor Third-Party",
+    "sum_insured_kes": 2000000,
+    "region": "Eldoret",
+    "join_date": "2020-09-10"
+  },
+  {
+    "policy_number": "AMI-00203",
+    "full_name": "Winnie Onyango",
+    "age": null,
+    "gender": "M",
+    "cover_type": "Property Cover",
+    "sum_insured_kes": 5000000,
+    "region": "Eldoret",
+    "join_date": "2021-01-10"
+  },
+  {
+    "policy_number": "AMI-00204",
+    "full_name": "Winnie Kariuki",
+    "age": 41,
+    "gender": "M",
+    "cover_type": "Motor Third-Party",
+    "sum_insured_kes": 800000,
+    "region": "Nairobi",
+    "join_date": "2019-07-08"
+  },
+  {
+    "policy_number": "AMI-00205",
+    "full_name": "Peter Njoroge",
+    "age": 24,
+    "gender": "F",
+    "cover_type": "Health Cover",
+    "sum_insured_kes": 3500000,
+    "region": "Kisumu",
+    "join_date": "2019-12-24"
+  },
+  {
+    "policy_number": "AMI-00206",
+    "full_name": "Lucy Wafula",
+    "age": 47,
+    "gender": "F",
+    "cover_type": "Motor Comprehensive",
+    "sum_insured_kes": 5000000,
+    "region": "Nakuru",
+    "join_date": "2019-01-21"
+  },
+  {
+    "policy_number": "AMI-00207",
+    "full_name": "Kevin Barasa",
+    "age": 54,
+    "gender": "F",
+    "cover_type": "Motor Third-Party",
+    "sum_insured_kes": 2000000,
+    "region": "Mombasa",
+    "join_date": "2019-06-24"
+  },
+  {
+    "policy_number": "AMI-00208",
+    "full_name": "Dennis Odhiambo",
+    "age": 21,
+    "gender": "M",
+    "cover_type": "Motor Comprehensive",
+    "sum_insured_kes": 3500000,
+    "region": "Kisumu",
+    "join_date": "2019-05-21"
+  },
+  {
+    "policy_number": "AMI-00209",
+    "full_name": "Joseph Cherono",
+    "age": 52,
+    "gender": "F",
+    "cover_type": "Motor Third-Party",
+    "sum_insured_kes": 2000000,
+    "region": "Mombasa",
+    "join_date": "2019-01-23"
+  },
+  {
+    "policy_number": "AMI-00210",
+    "full_name": "Samuel Njoroge",
+    "age": 54,
+    "gender": "F",
+    "cover_type": "Motor Third-Party",
+    "sum_insured_kes": 500000,
+    "region": "Nairobi",
+    "join_date": "2022-11-27"
+  },
+  {
+    "policy_number": "AMI-00211",
+    "full_name": "Faith Mutiso",
+    "age": 35,
+    "gender": null,
+    "cover_type": "Motor Comprehensive",
+    "sum_insured_kes": 800000,
+    "region": "Kisumu",
+    "join_date": "2020-10-04"
+  },
+  {
+    "policy_number": "AMI-00212",
+    "full_name": "Kevin Barasa",
+    "age": 41,
+    "gender": "F",
+    "cover_type": "Property Cover",
+    "sum_insured_kes": 3500000,
+    "region": "Nairobi",
+    "join_date": "2019-12-17"
+  },
+  {
+    "policy_number": "AMI-00213",
+    "full_name": "Winnie Odhiambo",
+    "age": 55,
+    "gender": "F",
+    "cover_type": "Motor Third-Party",
+    "sum_insured_kes": 800000,
+    "region": "Kisumu",
+    "join_date": "2019-09-10"
+  },
+  {
+    "policy_number": "AMI-00214",
+    "full_name": "Ann Wafula",
+    "age": 20,
+    "gender": "M",
+    "cover_type": "Health Cover",
+    "sum_insured_kes": 500000,
+    "region": "Kisumu",
+    "join_date": "2023-10-01"
+  },
+  {
+    "policy_number": "AMI-00215",
+    "full_name": "Lucy Barasa",
+    "age": 34,
+    "gender": "M",
+    "cover_type": "Health Cover",
+    "sum_insured_kes": 800000,
+    "region": "Mombasa",
+    "join_date": "2020-09-07"
+  },
+  {
+    "policy_number": "AMI-00216",
+    "full_name": "Brian Mutiso",
+    "age": 53,
+    "gender": "F",
+    "cover_type": "Health Cover",
+    "sum_insured_kes": 500000,
+    "region": "Eldoret",
+    "join_date": "2021-11-19"
+  },
+  {
+    "policy_number": "AMI-00217",
+    "full_name": "Winnie Barasa",
+    "age": 23,
+    "gender": "F",
+    "cover_type": "Health Cover",
+    "sum_insured_kes": 3500000,
+    "region": "Nyeri",
+    "join_date": "2020-06-15"
+  },
+  {
+    "policy_number": "AMI-00218",
+    "full_name": "Winnie Wafula",
+    "age": 48,
+    "gender": "M",
+    "cover_type": "Motor Comprehensive",
+    "sum_insured_kes": 5000000,
+    "region": "Kisumu",
+    "join_date": "2020-06-30"
+  },
+  {
+    "policy_number": "AMI-00219",
+    "full_name": "Brian Odhiambo",
+    "age": 50,
+    "gender": "M",
+    "cover_type": "Property Cover",
+    "sum_insured_kes": 500000,
+    "region": "Mombasa",
+    "join_date": "2023-08-04"
+  },
+  {
+    "policy_number": "AMI-00220",
+    "full_name": "Winnie Mutiso",
+    "age": 64,
+    "gender": "M",
+    "cover_type": "Motor Comprehensive",
+    "sum_insured_kes": 500000,
+    "region": "Kisumu",
+    "join_date": "2020-05-23"
+  }
+]
